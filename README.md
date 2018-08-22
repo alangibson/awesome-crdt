@@ -47,12 +47,18 @@ A list of awesome CRDT resources
 
 ## Implementations
 
+
+TODO https://github.com/y-js/yjs
+
+
 ### Data Structures
 
 - [KSeq: A continuous sequence CRDT based on Logoot/LSEQ](https://github.com/nkohari/kseq)
 - [LSEQ: CRDT for sequences](https://github.com/Chat-Wane/LSEQ)
 - [LSEQTree: A data structure for distributed arrays using the LSeq allocation strategy](https://github.com/Chat-Wane/LSEQTree)
 - [LSEQArray: aims to provide an implementation of a CRDT-based array using the allocation strategy LSEQ](https://github.com/Chat-Wane/LSEQArray)
+- [Automerge: A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically](https://github.com/automerge/automerge)
+- [Yjs: framework for offline-first p2p shared editing on structured data like text, richtext, json, or XML](https://github.com/y-js/yjs)
 - [teletype-crdt: The string-wise sequence CRDT powering peer-to-peer collaborative editing in Teletype for Atom](https://github.com/atom/teletype-crdt)
 - [Peer CRDT: An extensible collection of operation-based CRDTs that are meant to work over a p2p network](https://github.com/ipfs-shipyard/peer-crdt)
 
@@ -63,10 +69,11 @@ A list of awesome CRDT resources
 - [IPFS CRDT Shared Editing: Decentralized Real-Time Collaborative Documents - Conflict-free editing in the browser using js-IPFS and CRDTs](https://github.com/vigzmv/IPFS-CRDT-shared-editing)
 - [Shared editing demo using IPFS and CRDT](https://github.com/ipfs-shipyard/shared-editing-demo)
 
-### Databases
+### Databases and Logs
 
 - [AntidoteDB](https://syncfree.github.io/antidote/)
 - [Riak KV](http://docs.basho.com/riak/kv/2.2.3/developing/data-types/)
+- [Hypermerge: combines Automerge, a CRDT, with hypercore, a distributed append-only log](https://github.com/automerge/hypermerge)
 
 ## Projects
 
