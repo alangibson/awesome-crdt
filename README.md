@@ -1,4 +1,5 @@
-# awesome-crdt
+# Awesome CRDT
+
 A list of awesome CRDT resources
 
 ## Papers
@@ -46,10 +47,6 @@ A list of awesome CRDT resources
 - [crdt (Sonny To)](https://www.youtube.com/watch?v=rVRegyQvHqs&list=PLfV2ToGTS-JpUYyGFVK5AE5bzGtw4inwE)
 
 ## Implementations
-
-
-TODO https://github.com/y-js/yjs
-
 
 ### Data Structures
 
