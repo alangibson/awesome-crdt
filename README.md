@@ -71,6 +71,7 @@ A list of awesome CRDT resources
 - [AntidoteDB](https://syncfree.github.io/antidote/)
 - [Riak KV](http://docs.basho.com/riak/kv/2.2.3/developing/data-types/)
 - [Hypermerge: combines Automerge, a CRDT, with hypercore, a distributed append-only log](https://github.com/automerge/hypermerge)
+- [Roshi is a large-scale CRDT set implementation for timestamped events](https://github.com/soundcloud/roshi)
 
 ## Projects
 
