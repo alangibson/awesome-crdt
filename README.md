@@ -7,22 +7,38 @@ A list of awesome CRDT resources
 ### Foundations
 
 - [Achieving Convergence, Causality-Preservation, and Intention-Preservation in Real-Time Cooperative Editing Systems - Sun et. al. (1998)](http://diyhpl.us/%7Ebryan/papers2/distributed/distributed-systems/real-time-cooperative-editing-systems.1998.pdf)
-- [Conflict-free Replicated Data Types - Marc Shapiro et. al. (2011)](https://hal.inria.fr/inria-00609399v1/document)
-- [A comprehensive study of Convergent and Commutative Replicated Data Types - Marc Shapiro et. al. (2011)](https://hal.inria.fr/inria-00555588/document)
-- [CRDTs: Consistency without concurrency control - Mihai Letia et. al. (2009)](https://arxiv.org/pdf/0907.0929)
-- [A commutative replicated data type for cooperative editing - Nuno Preguiça (2009)](https://hal.inria.fr/inria-00445975/document)
 - [Designing a commutative replicated data type - Marc Shapiro et. al. (2007)](https://arxiv.org/pdf/0710.1784)
+- [CRDTs: Consistency without concurrency control - Mihai Letia et. al. (2009)](https://arxiv.org/pdf/0907.0929)
+- [A commutative replicated data type for cooperative editing - Nuno Preguiça (2009)](https://hal.inria.fr/inria-00445975/document)eedoc
+- [A comprehensive study of Convergent and Commutative Replicated Data Types - Marc Shapiro et. al. (2011)](https://hal.inria.fr/inria-00555588/document)
+- [Convergent and Commutative Replicated Data Types - Marc Shapiro et. al. (2011)](https://hal.inria.fr/hal-00932833/document)
+- [Conflict-free Replicated Data Types - Marc Shapiro et. al. (2011)](https://hal.inria.fr/inria-00609399v1/document)
+- [High Responsiveness for Group Editing CRDTs](https://pages.lip6.fr/Marc.Shapiro/papers/rgasplit-group2016-11.pdf)
+- [Pure Operation-Based Replicated Data Types - Carlos Baquero et. al. (2017)](https://arxiv.org/pdf/1710.04469.pdf)
+- [Evaluating CRDTs for Real-time Document Editing - Mehdi Ahmed-Nacer et. al.](https://members.loria.fr/CIgnat/files/pdf/AhmedNacerDocEng11.pdf)
+- [Large-Scale Geo-Replicated Conflict-free Replicated Data Types - Carlos Bartolomeu](http://www.gsd.inesc-id.pt/~ler/reports/carlosbartolomeu-midterm.pdf)
 
 ### Applications
 
+- [WOOT: Real time group editors without Operational transformation - Gérald Oster et. al. (2005)](https://hal.inria.fr/inria-00071240/document)
+- [RGA, RHT, RFA: Replicated abstract data types: Building blocks for collaborative applications - Hyun-Gul Roh (2011)](http://csl.skku.edu/papers/jpdc11.pdf)
+- [Logoot: A Scalable Optimistic Replication Algorithm for Collaborative Editing on P2P Networks - Weiss et. al. (2009)](https://hal.archives-ouvertes.fr/inria-00432368/document)
+- [TreeDoc: A commutative replicated data type for cooperative editing (2009)](https://hal.inria.fr/inria-00445975/document)
 - [SwiftCloud: Fault-Tolerant Geo-Replication Integrated all the Way to the Client Machine - Marek Zawirski et. al. (2013)](https://arxiv.org/pdf/1310.3107.pdf)
 - [LSEQ: an Adaptive Structure for Sequences in Distributed Collaborative Editing - Brice Nédelec et. al. (2013)](https://hal.archives-ouvertes.fr/hal-00921633/document)
-- [Logoot: A Scalable Optimistic Replication Algorithm for Collaborative Editing on P2P Networks - Weiss et. al. (2009)](https://hal.archives-ouvertes.fr/inria-00432368/document)
-- TODO WOOT, RGA
+- [WOOTR: Abstract unordered and ordered trees CRDT - Stéphane Martin et. al. (2011)]()
+- [Logoot-Undo: Distributed Collaborative Editing System on P2P Networks - Stéphane Weiss et. al.](https://s3.amazonaws.com/academia.edu.documents/39769048/Logoot-Undo_Distributed_Collaborative_Ed20151107-5753-e8mgn.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1535395093&Signature=0osSBA0TEG5rjZ58sr9z7%2FrC%2Bxc%3D&response-content-disposition=inline%3B%20filename%3DLogoot-Undo_Distributed_Collaborative_Ed.pdf)
+- TODO RGA
+
+### Proof and Verification
+
+- [A framework for verifying Conflict-free Replicated Data Types (CRDTs) - Dominic Mulligan (2017)](http://srepls6.cs.ucl.ac.uk/images/mulligan.pdf)
 
 ## Blogs
 
 - [A Look at Conflict-Free Replicated Data Types](https://medium.com/@istanbul_techie/a-look-at-conflict-free-replicated-data-types-crdt-221a5f629e7e)
+- [Distributed data structures with Coq](http://christophermeiklejohn.com/coq/2013/06/11/distributed-data-structures.html)
+- [Working code for Operational Transformation/CRDT hybrid](https://medium.com/@raphlinus/working-code-for-operational-transformation-crdt-hybrid-9d04a57309da)
 
 ## Videos
 
@@ -38,6 +54,7 @@ A list of awesome CRDT resources
 - [Lightning Talk: Just-Right Consistency: Closing The CAP Gap - Christopher Meiklejohn (Erlang Solutions)](https://www.youtube.com/watch?v=zVcv27m8zgY&index=13&list=PLU3pXbz7Jcgn-tyj_hZ3kLlna_ojG5qD5)
 - [CRDTs in Practice - Marc Shapiro & Nuno Preguiça (Erlang Solutions)](https://www.youtube.com/watch?v=xxjHC3yLDqw&list=PLzUeAPxtWcqxBXjUelmcm5ORVjEpbUlHH&index=4)
 - [Tutorial: How to build an Collaborative Editing Application with IPFS using CRDT (IPFS)](https://www.youtube.com/watch?v=-kdx8rJd8rQ)
+- [WOOT: an algorithm for concurrency and collaborative authoring! (Julien Genestoux)](https://www.youtube.com/watch?v=NSTZ4mIv_wk)
 
 ### Playlists
 
@@ -58,6 +75,7 @@ A list of awesome CRDT resources
 - [Yjs: framework for offline-first p2p shared editing on structured data like text, richtext, json, or XML](https://github.com/y-js/yjs)
 - [teletype-crdt: The string-wise sequence CRDT powering peer-to-peer collaborative editing in Teletype for Atom](https://github.com/atom/teletype-crdt)
 - [Peer CRDT: An extensible collection of operation-based CRDTs that are meant to work over a p2p network](https://github.com/ipfs-shipyard/peer-crdt)
+- [Distributed Data Structures in Coq](https://github.com/cmeiklejohn/distributed-data-structures)
 
 ### Editors
 
