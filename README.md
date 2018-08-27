@@ -1,6 +1,6 @@
 # Awesome CRDT
 
-A list of awesome CRDT resources
+A collection of awesome CRDT resources
 
 ## Papers
 
@@ -28,7 +28,6 @@ A list of awesome CRDT resources
 - [LSEQ: an Adaptive Structure for Sequences in Distributed Collaborative Editing - Brice Nédelec et. al. (2013)](https://hal.archives-ouvertes.fr/hal-00921633/document)
 - [WOOTR: Abstract unordered and ordered trees CRDT - Stéphane Martin et. al. (2011)]()
 - [Logoot-Undo: Distributed Collaborative Editing System on P2P Networks - Stéphane Weiss et. al.](https://s3.amazonaws.com/academia.edu.documents/39769048/Logoot-Undo_Distributed_Collaborative_Ed20151107-5753-e8mgn.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1535395093&Signature=0osSBA0TEG5rjZ58sr9z7%2FrC%2Bxc%3D&response-content-disposition=inline%3B%20filename%3DLogoot-Undo_Distributed_Collaborative_Ed.pdf)
-- TODO RGA
 
 ### Proof and Verification
 
