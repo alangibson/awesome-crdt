@@ -33,12 +33,15 @@ A list of awesome CRDT resources
 ### Proof and Verification
 
 - [A framework for verifying Conflict-free Replicated Data Types (CRDTs) - Dominic Mulligan (2017)](http://srepls6.cs.ucl.ac.uk/images/mulligan.pdf)
+- [Verifying Strong Eventual Consistency in Distributed Systems - VICTOR B. F. GOMES (2017)](https://arxiv.org/pdf/1707.01747.pdf)
 
 ## Blogs
 
 - [A Look at Conflict-Free Replicated Data Types](https://medium.com/@istanbul_techie/a-look-at-conflict-free-replicated-data-types-crdt-221a5f629e7e)
 - [Distributed data structures with Coq](http://christophermeiklejohn.com/coq/2013/06/11/distributed-data-structures.html)
+- [Towards a unified theory of Operational Transformation and CRDT](https://medium.com/@raphlinus/towards-a-unified-theory-of-operational-transformation-and-crdt-70485876f72f)
 - [Working code for Operational Transformation/CRDT hybrid](https://medium.com/@raphlinus/working-code-for-operational-transformation-crdt-hybrid-9d04a57309da)
+- [Convergent Replicated Data Types](http://simongui.github.io/distributed-systems/crdt.html)
 
 ## Videos
 
@@ -76,13 +79,19 @@ A list of awesome CRDT resources
 - [teletype-crdt: The string-wise sequence CRDT powering peer-to-peer collaborative editing in Teletype for Atom](https://github.com/atom/teletype-crdt)
 - [Peer CRDT: An extensible collection of operation-based CRDTs that are meant to work over a p2p network](https://github.com/ipfs-shipyard/peer-crdt)
 - [Distributed Data Structures in Coq](https://github.com/cmeiklejohn/distributed-data-structures)
+- [Akka CRDT: An Eventually Consistent REST/JSON database using CRDTs, Akka Cluster and LevelDB](https://github.com/jboner/akka-crdt)
+- [Akka Distributed Data](https://doc.akka.io/docs/akka/snapshot/distributed-data.html?language=scala)
+- [wurmloch-crdt: Experimental implementations of conflict-free replicated data types (CRDTs) for the JVM](https://github.com/netopyr/wurmloch-crdt)
 
 ### Editors
 
 - [SandEdit: a project aiming to provide a distributed collaborative editor based on Conflict-free Replicated Data Type](https://github.com/Chat-Wane/SandEdit)
 - [Teletype for Atom: Share your workspace with team members and collaborate on code in real time in Atom](https://github.com/atom/teletype)
+- [Xi Editor: an attempt to build a high quality text editor, using modern software engineering techniques](https://github.com/google/xi-editor/blob/master/docs/docs/crdt.md)
 - [IPFS CRDT Shared Editing: Decentralized Real-Time Collaborative Documents - Conflict-free editing in the browser using js-IPFS and CRDTs](https://github.com/vigzmv/IPFS-CRDT-shared-editing)
 - [Shared editing demo using IPFS and CRDT](https://github.com/ipfs-shipyard/shared-editing-demo)
+- [Co: collaborative text editor, uses woot. front end in Elm, back in node](https://github.com/leahsteinberg/co)
+- [woot-collaborative-editor: A real time collaboration toy project based on WOOT. Implemented with node.js and ws](https://github.com/ryankaplan/woot-collaborative-editor)
 
 ### Databases and Logs
 
