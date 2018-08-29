@@ -2,6 +2,17 @@
 
 A collection of awesome CRDT resources
 
+## Know Before You Go
+
+- [Set Notation and Concepts](https://link.springer.com/content/pdf/bbm%3A978-0-85729-829-4%2F1.pdf)
+- [Set theory symbols](https://www.rapidtables.com/math/symbols/Set_Symbols.html)
+- [Assigning Lamport & Vector Timestamps](https://www.cs.rutgers.edu/~pxk/417/notes/clocks/index.html)
+- [Vector Clock (Wikipedia)](https://en.wikipedia.org/wiki/Vector_clock)
+- [Partially ordered set (Wikipedia)](https://en.wikipedia.org/wiki/Partially_ordered_set)
+- [Total Order (Wikipedia)](https://en.wikipedia.org/wiki/Total_order)
+- [Causal Ordering](http://scattered-thoughts.net/blog/2012/08/16/causal-ordering/)
+- [Semilattice (Wikipedia)](https://en.wikipedia.org/wiki/Semilattice)
+
 ## Papers
 
 ### Foundations
@@ -41,6 +52,7 @@ A collection of awesome CRDT resources
 - [Towards a unified theory of Operational Transformation and CRDT](https://medium.com/@raphlinus/towards-a-unified-theory-of-operational-transformation-and-crdt-70485876f72f)
 - [Working code for Operational Transformation/CRDT hybrid](https://medium.com/@raphlinus/working-code-for-operational-transformation-crdt-hybrid-9d04a57309da)
 - [Convergent Replicated Data Types](http://simongui.github.io/distributed-systems/crdt.html)
+- [Logs and docs](https://medium.com/@gritzko/logs-and-docs-b6cb34efc7de)
 
 ## Videos
 
@@ -75,6 +87,7 @@ A collection of awesome CRDT resources
 - [LSEQArray: aims to provide an implementation of a CRDT-based array using the allocation strategy LSEQ](https://github.com/Chat-Wane/LSEQArray)
 - [Automerge: A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically](https://github.com/automerge/automerge)
 - [Yjs: framework for offline-first p2p shared editing on structured data like text, richtext, json, or XML](https://github.com/y-js/yjs)
+- [ron: Replicated Object Notation, a distributed live data format, golang/ragel lib ](https://github.com/gritzko/ron)
 - [teletype-crdt: The string-wise sequence CRDT powering peer-to-peer collaborative editing in Teletype for Atom](https://github.com/atom/teletype-crdt)
 - [Peer CRDT: An extensible collection of operation-based CRDTs that are meant to work over a p2p network](https://github.com/ipfs-shipyard/peer-crdt)
 - [Distributed Data Structures in Coq](https://github.com/cmeiklejohn/distributed-data-structures)
