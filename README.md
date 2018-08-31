@@ -56,6 +56,8 @@ A collection of awesome CRDT resources
 
 ## Videos
 
+- [Strong Eventual Consistency and Conflict-free Replicated Data Types - Marc Shapiro (ThisByGustav)](https://www.youtube.com/watch?v=ebWVLVhiaiY&index=9&list=PLU3pXbz7Jcgn-tyj_hZ3kLlna_ojG5qD5)
+- [CRDTs in Practice - Marc Shapiro & Nuno Preguiça (Erlang Solutions)](https://www.youtube.com/watch?v=xxjHC3yLDqw&list=PLzUeAPxtWcqxBXjUelmcm5ORVjEpbUlHH&index=4)
 - [Automerge: Making servers optional for real-time collaboration - Martin Kleppmann (J On The Beach 2018)](https://www.youtube.com/watch?v=PHz17gwiOc8&index=3&list=PLBWIvCz5rfq0CFXhIWKhbznImXB1aBqbp)
 - ["Transactions: myths, surprises and opportunities" by Martin Kleppmann (Strange Loop)](https://www.youtube.com/watch?v=5ZjhNTM8XU8&index=2&list=PLBWIvCz5rfq0CFXhIWKhbznImXB1aBqbp)
 - ["CRDTs Illustrated" by Arnout Engelen (Strange Loop)](https://www.youtube.com/watch?v=9xFfOhasiOE&list=PLBWIvCz5rfq0CFXhIWKhbznImXB1aBqbp)
@@ -63,10 +65,8 @@ A collection of awesome CRDT resources
 - [ElixirConf 2015 - CRDT: Datatype for the Apocalypse by Alexander Songe (Confreaks)](https://www.youtube.com/watch?v=txD1tfyIIvY&index=6&list=PLU3pXbz7Jcgn-tyj_hZ3kLlna_ojG5qD5)
 - [Using Erlang, Riak and the ORSWOT CRDT at bet365 (...) - Michael Owen - Erlang User Conference 2015 (Erlang Solutions)](https://www.youtube.com/watch?v=WXmO1IvzIZY&index=7&list=PLU3pXbz7Jcgn-tyj_hZ3kLlna_ojG5qD5)
 - [Kappa Day - Practical demystification of CRDT - Tomtom (Jug Łódź)](https://www.youtube.com/watch?v=v2Wedv37w5Q&index=8&list=PLU3pXbz7Jcgn-tyj_hZ3kLlna_ojG5qD5)
-- [Strong Eventual Consistency and Conflict-free Replicated Data Types (ThisByGustav)](https://www.youtube.com/watch?v=ebWVLVhiaiY&index=9&list=PLU3pXbz7Jcgn-tyj_hZ3kLlna_ojG5qD5)
 - ["Distributed, Eventually Consistent Computations" by Christopher Meiklejohn (Strange Loop)](https://www.youtube.com/watch?v=lsKaNDj4TrE&index=11&list=PLU3pXbz7Jcgn-tyj_hZ3kLlna_ojG5qD5)
 - [Lightning Talk: Just-Right Consistency: Closing The CAP Gap - Christopher Meiklejohn (Erlang Solutions)](https://www.youtube.com/watch?v=zVcv27m8zgY&index=13&list=PLU3pXbz7Jcgn-tyj_hZ3kLlna_ojG5qD5)
-- [CRDTs in Practice - Marc Shapiro & Nuno Preguiça (Erlang Solutions)](https://www.youtube.com/watch?v=xxjHC3yLDqw&list=PLzUeAPxtWcqxBXjUelmcm5ORVjEpbUlHH&index=4)
 - [Tutorial: How to build an Collaborative Editing Application with IPFS using CRDT (IPFS)](https://www.youtube.com/watch?v=-kdx8rJd8rQ)
 - [WOOT: an algorithm for concurrency and collaborative authoring! (Julien Genestoux)](https://www.youtube.com/watch?v=NSTZ4mIv_wk)
 
