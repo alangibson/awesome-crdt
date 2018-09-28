@@ -8,7 +8,7 @@ A collection of awesome CRDT resources
 - [Set theory symbols](https://www.rapidtables.com/math/symbols/Set_Symbols.html)
 - [Assigning Lamport & Vector Timestamps](https://www.cs.rutgers.edu/~pxk/417/notes/clocks/index.html)
 - [Vector Clock (Wikipedia)](https://en.wikipedia.org/wiki/Vector_clock)
-- [Version Vector (Wikipedia)]{https://en.m.wikipedia.org/wiki/Version_vector}
+- [Version Vector (Wikipedia)](https://en.m.wikipedia.org/wiki/Version_vector)
 - [Partially ordered set (Wikipedia)](https://en.wikipedia.org/wiki/Partially_ordered_set)
 - [Total Order (Wikipedia)](https://en.wikipedia.org/wiki/Total_order)
 - [Causal Ordering](http://scattered-thoughts.net/blog/2012/08/16/causal-ordering/)
@@ -21,7 +21,7 @@ A collection of awesome CRDT resources
 - [Achieving Convergence, Causality-Preservation, and Intention-Preservation in Real-Time Cooperative Editing Systems - Sun et. al. (1998)](http://diyhpl.us/%7Ebryan/papers2/distributed/distributed-systems/real-time-cooperative-editing-systems.1998.pdf)
 - [Designing a commutative replicated data type - Marc Shapiro et. al. (2007)](https://arxiv.org/pdf/0710.1784)
 - [CRDTs: Consistency without concurrency control - Mihai Letia et. al. (2009)](https://arxiv.org/pdf/0907.0929)
-- [A commutative replicated data type for cooperative editing - Nuno Preguiça (2009)](https://hal.inria.fr/inria-00445975/document)eedoc
+- [A commutative replicated data type for cooperative editing - Nuno Preguiça (2009)](https://hal.inria.fr/inria-00445975/document)
 - [A comprehensive study of Convergent and Commutative Replicated Data Types - Marc Shapiro et. al. (2011)](https://hal.inria.fr/inria-00555588/document)
 - [Convergent and Commutative Replicated Data Types - Marc Shapiro et. al. (2011)](https://hal.inria.fr/hal-00932833/document)
 - [Conflict-free Replicated Data Types - Marc Shapiro et. al. (2011)](https://hal.inria.fr/inria-00609399v1/document)
