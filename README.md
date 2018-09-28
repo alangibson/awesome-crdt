@@ -8,6 +8,7 @@ A collection of awesome CRDT resources
 - [Set theory symbols](https://www.rapidtables.com/math/symbols/Set_Symbols.html)
 - [Assigning Lamport & Vector Timestamps](https://www.cs.rutgers.edu/~pxk/417/notes/clocks/index.html)
 - [Vector Clock (Wikipedia)](https://en.wikipedia.org/wiki/Vector_clock)
+- [Version Vector (Wikipedia)]{https://en.m.wikipedia.org/wiki/Version_vector}
 - [Partially ordered set (Wikipedia)](https://en.wikipedia.org/wiki/Partially_ordered_set)
 - [Total Order (Wikipedia)](https://en.wikipedia.org/wiki/Total_order)
 - [Causal Ordering](http://scattered-thoughts.net/blog/2012/08/16/causal-ordering/)
@@ -53,6 +54,10 @@ A collection of awesome CRDT resources
 - [Working code for Operational Transformation/CRDT hybrid](https://medium.com/@raphlinus/working-code-for-operational-transformation-crdt-hybrid-9d04a57309da)
 - [Convergent Replicated Data Types](http://simongui.github.io/distributed-systems/crdt.html)
 - [Logs and docs](https://medium.com/@gritzko/logs-and-docs-b6cb34efc7de)
+- [CRDTs explained - supercharge your serverless with CRDTs at the Edge (Russell Sullivan)](https://serverless.com/blog/crdt-explained-supercharge-serverless-at-edge/)
+- [Good Spirits: Syncing Data Statelessly](http://archagon.net/blog/2018/09/03/good-spirits-persisting-data-statelessly/)
+- [Delta State Replicated Data Types](https://blog.acolyer.org/2016/04/25/delta-state-replicated-data-types/)
+- [Datanet: a New CRDT Database that Let's You Do Bad Bad Things to Distributed Data](http://highscalability.com/blog/2016/10/17/datanet-a-new-crdt-database-that-lets-you-do-bad-bad-things.html)
 
 ## Videos
 
@@ -69,6 +74,8 @@ A collection of awesome CRDT resources
 - [CRDTs in Practice - Marc Shapiro & Nuno Preguiça (Erlang Solutions)](https://www.youtube.com/watch?v=xxjHC3yLDqw&list=PLzUeAPxtWcqxBXjUelmcm5ORVjEpbUlHH&index=4)
 - [Tutorial: How to build an Collaborative Editing Application with IPFS using CRDT (IPFS)](https://www.youtube.com/watch?v=-kdx8rJd8rQ)
 - [WOOT: an algorithm for concurrency and collaborative authoring! (Julien Genestoux)](https://www.youtube.com/watch?v=NSTZ4mIv_wk)
+- [CRDTs for Non Academics (Russell Sullivan)](https://www.youtube.com/watch?v=vBU70EjwGfw)
+- [Datanet Website Slideshow](https://www.youtube.com/watch?v=jANg6Za4T1w)
 
 ### Playlists
 
@@ -112,6 +119,8 @@ A collection of awesome CRDT resources
 - [Hypermerge: combines Automerge, a CRDT, with hypercore, a distributed append-only log](https://github.com/automerge/hypermerge)
 - [Roshi: a large-scale CRDT set implementation for timestamped events](https://github.com/soundcloud/roshi)
 - [Swarm: JavaScript replicated model (M of MVC) library](https://github.com/gritzko/swarm)
+- [Datanet: an open source CRDT based data synchronization system](http://datanet.co/)
+- [Kuhirō: The Near Cloud](https://www.kuhiro.com)
 
 ## Projects
 
