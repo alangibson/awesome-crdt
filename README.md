@@ -4,15 +4,25 @@ A collection of awesome CRDT resources
 
 ## Know Before You Go
 
+### Set Theory
+
 - [Set Notation and Concepts](https://link.springer.com/content/pdf/bbm%3A978-0-85729-829-4%2F1.pdf)
 - [Set theory symbols](https://www.rapidtables.com/math/symbols/Set_Symbols.html)
-- [Assigning Lamport & Vector Timestamps](https://www.cs.rutgers.edu/~pxk/417/notes/clocks/index.html)
-- [Vector Clock (Wikipedia)](https://en.wikipedia.org/wiki/Vector_clock)
-- [Version Vector (Wikipedia)](https://en.m.wikipedia.org/wiki/Version_vector)
+
+### Order Theory
+
 - [Partially ordered set (Wikipedia)](https://en.wikipedia.org/wiki/Partially_ordered_set)
 - [Total Order (Wikipedia)](https://en.wikipedia.org/wiki/Total_order)
 - [Causal Ordering](http://scattered-thoughts.net/blog/2012/08/16/causal-ordering/)
 - [Semilattice (Wikipedia)](https://en.wikipedia.org/wiki/Semilattice)
+
+### Clocks
+
+- [Logical Clock (Wikipedia)](https://en.wikipedia.org/wiki/Logical_clock)
+- [Lamport Timestamps (Wikipedia)](https://en.wikipedia.org/wiki/Lamport_timestamps)
+- [Assigning Lamport & Vector Timestamps](https://www.cs.rutgers.edu/~pxk/417/notes/clocks/index.html)
+- [Vector Clock (Wikipedia)](https://en.wikipedia.org/wiki/Vector_clock)
+- [Version Vector (Wikipedia)](https://en.m.wikipedia.org/wiki/Version_vector)
 
 ## Papers
 
@@ -131,3 +141,4 @@ A collection of awesome CRDT resources
 ## More Lists
 
 - [Readings in conflict-free replicated data types](http://christophermeiklejohn.com/crdt/2014/07/22/readings-in-crdts.html)
+- [Carlos Baquero bibliography](https://dblp.uni-trier.de/pers/hd/b/Baquero:Carlos)
