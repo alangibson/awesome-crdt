@@ -15,6 +15,7 @@ A collection of awesome CRDT resources
 - [Total Order (Wikipedia)](https://en.wikipedia.org/wiki/Total_order)
 - [Causal Ordering](http://scattered-thoughts.net/blog/2012/08/16/causal-ordering/)
 - [Semilattice (Wikipedia)](https://en.wikipedia.org/wiki/Semilattice)
+- [Defanging Order Theory](http://jtfmumm.com/blog/2015/11/17/crdt-primer-1-defanging-order-theory/)
 
 ### Clocks
 
@@ -23,8 +24,9 @@ A collection of awesome CRDT resources
 - [Assigning Lamport & Vector Timestamps](https://www.cs.rutgers.edu/~pxk/417/notes/clocks/index.html)
 - [Vector Clock (Wikipedia)](https://en.wikipedia.org/wiki/Vector_clock)
 - [Version Vector (Wikipedia)](https://en.m.wikipedia.org/wiki/Version_vector)
+- [Why Logical Clocks are Easy](https://queue.acm.org/detail.cfm?id=2917756)
 
-## Papers
+## Papers 
 
 ### Foundations
 
@@ -35,10 +37,18 @@ A collection of awesome CRDT resources
 - [A comprehensive study of Convergent and Commutative Replicated Data Types - Marc Shapiro et. al. (2011)](https://hal.inria.fr/inria-00555588/document)
 - [Convergent and Commutative Replicated Data Types - Marc Shapiro et. al. (2011)](https://hal.inria.fr/hal-00932833/document)
 - [Conflict-free Replicated Data Types - Marc Shapiro et. al. (2011)](https://hal.inria.fr/inria-00609399v1/document)
-- [High Responsiveness for Group Editing CRDTs](https://pages.lip6.fr/Marc.Shapiro/papers/rgasplit-group2016-11.pdf)
 - [Pure Operation-Based Replicated Data Types - Carlos Baquero et. al. (2017)](https://arxiv.org/pdf/1710.04469.pdf)
 - [Evaluating CRDTs for Real-time Document Editing - Mehdi Ahmed-Nacer et. al.](https://members.loria.fr/CIgnat/files/pdf/AhmedNacerDocEng11.pdf)
 - [Large-Scale Geo-Replicated Conflict-free Replicated Data Types - Carlos Bartolomeu](http://www.gsd.inesc-id.pt/~ler/reports/carlosbartolomeu-midterm.pdf)
+- [Pure Operation-Based Replicated Data Types - Carlos Baquero et. al. (2017)](https://arxiv.org/pdf/1710.04469.pdf)
+- [Consistency, Availability, and Convergence - Mahajan et. al.](http://www.cs.utexas.edu/users/dahlin/papers/cac-tr.pdf)
+
+#### Clocks
+
+- [Time, Clocks, and the Ordering of Events in a  Distributed System - Leslie Lamport (1978)](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)
+- [Virtual Time and Global States of Distributed Systems - Friedemann Mattern (1988)](https://www.vs.inf.ethz.ch/publ/papers/VirtTimeGlobStates.pdf)
+- [Timestamps in Message-Passing Systems That Preserve the Partial Ordering - Colin Fidge (1988)](http://fileadmin.cs.lth.se/cs/Personal/Amr_Ergawy/dist-algos-papers/4.pdf)
+- [Dotted Version Vectors: Efficient Causality Tracking for Distributed Key-Value Stores - Carlos Baquero et. al.](http://gsd.di.uminho.pt/members/vff/dotted-version-vectors-2012.pdf)
 
 ### Applications
 
@@ -48,13 +58,22 @@ A collection of awesome CRDT resources
 - [TreeDoc: A commutative replicated data type for cooperative editing (2009)](https://hal.inria.fr/inria-00445975/document)
 - [SwiftCloud: Fault-Tolerant Geo-Replication Integrated all the Way to the Client Machine - Marek Zawirski et. al. (2013)](https://arxiv.org/pdf/1310.3107.pdf)
 - [LSEQ: an Adaptive Structure for Sequences in Distributed Collaborative Editing - Brice Nédelec et. al. (2013)](https://hal.archives-ouvertes.fr/hal-00921633/document)
-- [WOOTR: Abstract unordered and ordered trees CRDT - Stéphane Martin et. al. (2011)]()
+- [WOOTR: Abstract unordered and ordered trees CRDT - Stéphane Martin et. al. (2011)](https://arxiv.org/pdf/1201.1784.pdf)
 - [Logoot-Undo: Distributed Collaborative Editing System on P2P Networks - Stéphane Weiss et. al.](https://s3.amazonaws.com/academia.edu.documents/39769048/Logoot-Undo_Distributed_Collaborative_Ed20151107-5753-e8mgn.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1535395093&Signature=0osSBA0TEG5rjZ58sr9z7%2FrC%2Bxc%3D&response-content-disposition=inline%3B%20filename%3DLogoot-Undo_Distributed_Collaborative_Ed.pdf)
+- [Yjs: A Framework for Near Real-Time P2P Shared Editing on Arbitrary Data Types (2015)](http://dbis.rwth-aachen.de/~derntl/papers/preprints/icwe2015-preprint.pdf)
+- [Causal trees: towards real-time read-write hypertext - Victor Grishchenko](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.627.5286&rep=rep1&type=pdf)
+- [RGASplit: High Responsiveness for Group Editing CRDTs](https://pages.lip6.fr/Marc.Shapiro/papers/rgasplit-group2016-11.pdf)
+- [COPS: Don’t Settle for Eventual: Scalable Causal Consistency for Wide-Area Storage with COPS](http://www-users.cselabs.umn.edu/classes/Spring-2018/csci8980/Papers/CloudDataStorageManagement/COPS.pdf)
+
+#### Clocks
+
+- [Dotted Version Vectors: Logical Clocks for Eventually Consistent Systems](https://github.com/ricardobcl/Dotted-Version-Vectors)
 
 ### Proof and Verification
 
 - [A framework for verifying Conflict-free Replicated Data Types (CRDTs) - Dominic Mulligan (2017)](http://srepls6.cs.ucl.ac.uk/images/mulligan.pdf)
 - [Verifying Strong Eventual Consistency in Distributed Systems - VICTOR B. F. GOMES (2017)](https://arxiv.org/pdf/1707.01747.pdf)
+- [On Verifying Causal Consistency - Bouajjani et. al. (2017)](https://pages.lip6.fr/Marc.Shapiro/workshop-2017-05-03/attachments/enea-slides.pdf)
 
 ## Blogs
 
@@ -68,11 +87,14 @@ A collection of awesome CRDT resources
 - [Good Spirits: Syncing Data Statelessly](http://archagon.net/blog/2018/09/03/good-spirits-persisting-data-statelessly/)
 - [Delta State Replicated Data Types](https://blog.acolyer.org/2016/04/25/delta-state-replicated-data-types/)
 - [Datanet: a New CRDT Database that Let's You Do Bad Bad Things to Distributed Data](http://highscalability.com/blog/2016/10/17/datanet-a-new-crdt-database-that-lets-you-do-bad-bad-things.html)
+- [Data Laced with History: Causal Trees & Operational CRDTs](http://archagon.net/blog/2018/03/24/data-laced-with-history)
+- [Serverless collaboration - (03/03/2019)](https://thegeez.net/2019/03/03/serverless_collab.html)
+- [Code together in real time with Teletype for Atom - (15/11/2017)](https://blog.atom.io/2017/11/15/code-together-in-real-time-with-teletype-for-atom.html)
 
 ## Videos
 
 - [Strong Eventual Consistency and Conflict-free Replicated Data Types - Marc Shapiro (ThisByGustav)](https://www.youtube.com/watch?v=ebWVLVhiaiY&index=9&list=PLU3pXbz7Jcgn-tyj_hZ3kLlna_ojG5qD5)
-- [CRDTs in Practice - Marc Shapiro & Nuno Preguiça (Erlang Solutions)](https://www.youtube.com/watch?v=xxjHC3yLDqw&list=PLzUeAPxtWcqxBXjUelmcm5ORVjEpbUlHH&index=4)
+- [CRDTs in Practice - Marc Shapiro & Nuno Preguiça (Erlang Solutions)](https://www.youtube.com/watch?v=xxjHC3yLDqw)
 - [Automerge: Making servers optional for real-time collaboration - Martin Kleppmann (J On The Beach 2018)](https://www.youtube.com/watch?v=PHz17gwiOc8&index=3&list=PLBWIvCz5rfq0CFXhIWKhbznImXB1aBqbp)
 - ["Transactions: myths, surprises and opportunities" by Martin Kleppmann (Strange Loop)](https://www.youtube.com/watch?v=5ZjhNTM8XU8&index=2&list=PLBWIvCz5rfq0CFXhIWKhbznImXB1aBqbp)
 - ["CRDTs Illustrated" by Arnout Engelen (Strange Loop)](https://www.youtube.com/watch?v=9xFfOhasiOE&list=PLBWIvCz5rfq0CFXhIWKhbznImXB1aBqbp)
@@ -104,13 +126,18 @@ A collection of awesome CRDT resources
 - [LSEQArray: aims to provide an implementation of a CRDT-based array using the allocation strategy LSEQ](https://github.com/Chat-Wane/LSEQArray)
 - [Automerge: A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically](https://github.com/automerge/automerge)
 - [Yjs: framework for offline-first p2p shared editing on structured data like text, richtext, json, or XML](https://github.com/y-js/yjs)
-- [ron: Replicated Object Notation, a distributed live data format, golang/ragel lib ](https://github.com/gritzko/ron)
+- [RON: Replicated Object Notation, a distributed live data format, golang/ragel lib ](https://github.com/gritzko/ron)
 - [teletype-crdt: The string-wise sequence CRDT powering peer-to-peer collaborative editing in Teletype for Atom](https://github.com/atom/teletype-crdt)
 - [Peer CRDT: An extensible collection of operation-based CRDTs that are meant to work over a p2p network](https://github.com/ipfs-shipyard/peer-crdt)
 - [Distributed Data Structures in Coq](https://github.com/cmeiklejohn/distributed-data-structures)
 - [Akka CRDT: An Eventually Consistent REST/JSON database using CRDTs, Akka Cluster and LevelDB](https://github.com/jboner/akka-crdt)
 - [Akka Distributed Data](https://doc.akka.io/docs/akka/snapshot/distributed-data.html?language=scala)
 - [wurmloch-crdt: Experimental implementations of conflict-free replicated data types (CRDTs) for the JVM](https://github.com/netopyr/wurmloch-crdt)
+
+#### Toy Implementations
+
+- [Companion to the article "Data Laced with History: Causal Trees & Operational CRDTs"](https://github.com/archagon/crdt-playground)
+- [Meangirls: Convergent Replicated Data Types](https://github.com/aphyr/meangirls)
 
 ### Editors
 
@@ -121,6 +148,8 @@ A collection of awesome CRDT resources
 - [Shared editing demo using IPFS and CRDT](https://github.com/ipfs-shipyard/shared-editing-demo)
 - [Co: collaborative text editor, uses woot. front end in Elm, back in node](https://github.com/leahsteinberg/co)
 - [woot-collaborative-editor: A real time collaboration toy project based on WOOT. Implemented with node.js and ws](https://github.com/ryankaplan/woot-collaborative-editor)
+- [cljs-collab: Browser-to-browser collaborative editor](https://thegeez.net/2019/03/03/serverless_collab.html)
+- [Xray: An experimental next-generation Electron-based text editor](https://github.com/atom/xray)
 
 ### Databases and Logs
 
@@ -132,13 +161,15 @@ A collection of awesome CRDT resources
 - [Datanet: an open source CRDT based data synchronization system](http://datanet.co/)
 - [Kuhirō: The Near Cloud](https://www.kuhiro.com)
 
-## Projects
+## Projects and Organizations
 
 ### SyncFree
 
 - [SyncFree](https://github.com/SyncFree)
+- [Automerge](https://github.com/automerge)
 
 ## More Lists
 
 - [Readings in conflict-free replicated data types](http://christophermeiklejohn.com/crdt/2014/07/22/readings-in-crdts.html)
 - [Carlos Baquero bibliography](https://dblp.uni-trier.de/pers/hd/b/Baquero:Carlos)
+- [BOOM: Berkley Orders of Magnitude](http://boom.cs.berkeley.edu/papers.html)
