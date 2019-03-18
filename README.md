@@ -150,6 +150,7 @@ A collection of awesome CRDT resources
 - [woot-collaborative-editor: A real time collaboration toy project based on WOOT. Implemented with node.js and ws](https://github.com/ryankaplan/woot-collaborative-editor)
 - [cljs-collab: Browser-to-browser collaborative editor](https://thegeez.net/2019/03/03/serverless_collab.html)
 - [Xray: An experimental next-generation Electron-based text editor](https://github.com/atom/xray)
+- [https://arxiv.org/pdf/1810.02137.pdf](Real Differences between OT and CRDT for Co-Editors)
 
 ### Databases and Logs
 
