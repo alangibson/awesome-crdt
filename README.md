@@ -153,6 +153,7 @@ A collection of awesome CRDT resources
 
 ### Databases and Logs
 
+- [Concordant](https://www.concordant.io/)
 - [AntidoteDB](https://syncfree.github.io/antidote/)
 - [Riak KV](http://docs.basho.com/riak/kv/2.2.3/developing/data-types/)
 - [Hypermerge: combines Automerge, a CRDT, with hypercore, a distributed append-only log](https://github.com/automerge/hypermerge)
