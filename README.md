@@ -126,7 +126,7 @@ A collection of awesome CRDT resources
 - [LSEQArray: aims to provide an implementation of a CRDT-based array using the allocation strategy LSEQ](https://github.com/Chat-Wane/LSEQArray)
 - [Automerge: A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically](https://github.com/automerge/automerge)
 - [Yjs: framework for offline-first p2p shared editing on structured data like text, richtext, json, or XML](https://github.com/y-js/yjs)
-- [RON: Replicated Object Notation, a distributed live data format, golang/ragel lib ](https://github.com/gritzko/ron)
+- [RON: Replicated Object Notation, a distributed live data format](https://replicated.cc/) ([implementations in C++, Elixir, Go, Haskell, Java, JavaScript, Rust](https://replicated.cc/impl/))
 - [teletype-crdt: The string-wise sequence CRDT powering peer-to-peer collaborative editing in Teletype for Atom](https://github.com/atom/teletype-crdt)
 - [Peer CRDT: An extensible collection of operation-based CRDTs that are meant to work over a p2p network](https://github.com/ipfs-shipyard/peer-crdt)
 - [Distributed Data Structures in Coq](https://github.com/cmeiklejohn/distributed-data-structures)
