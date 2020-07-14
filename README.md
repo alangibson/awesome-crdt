@@ -91,6 +91,11 @@ A collection of awesome CRDT resources
 - [Serverless collaboration - (03/03/2019)](https://thegeez.net/2019/03/03/serverless_collab.html)
 - [Code together in real time with Teletype for Atom - (15/11/2017)](https://blog.atom.io/2017/11/15/code-together-in-real-time-with-teletype-for-atom.html)
 
+## Skepticism
+
+- [Real Differences between OT and CRDT for Co-Editors](https://arxiv.org/pdf/1810.02137.pdf)
+- [Why CRDT didn't work out as well for collaborative editing xi-editor](https://github.com/xi-editor/xi-editor/issues/1187#issuecomment-491473599)
+
 ## Videos
 
 - [CRDTs: The Hard Parts - Martin Kleppman](https://youtu.be/x7drE24geUw)
@@ -151,7 +156,6 @@ A collection of awesome CRDT resources
 - [woot-collaborative-editor: A real time collaboration toy project based on WOOT. Implemented with node.js and ws](https://github.com/ryankaplan/woot-collaborative-editor)
 - [cljs-collab: Browser-to-browser collaborative editor](https://thegeez.net/2019/03/03/serverless_collab.html)
 - [Xray: An experimental next-generation Electron-based text editor](https://github.com/atom/xray)
-- [https://arxiv.org/pdf/1810.02137.pdf](Real Differences between OT and CRDT for Co-Editors)
 
 ### Databases and Logs
 
