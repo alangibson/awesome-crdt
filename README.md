@@ -15,7 +15,7 @@ A collection of awesome CRDT resources
 - [Total Order (Wikipedia)](https://en.wikipedia.org/wiki/Total_order)
 - [Causal Ordering](http://scattered-thoughts.net/blog/2012/08/16/causal-ordering/)
 - [Semilattice (Wikipedia)](https://en.wikipedia.org/wiki/Semilattice)
-- [Defanging Order Theory](http://jtfmumm.com/blog/2015/11/17/crdt-primer-1-defanging-order-theory/)
+- [A CRDT Primer Part I: Defanging Order Theory](http://jtfmumm.com/blog/2015/11/17/crdt-primer-1-defanging-order-theory/)
 
 ### Clocks
 
@@ -90,6 +90,7 @@ A collection of awesome CRDT resources
 - [Data Laced with History: Causal Trees & Operational CRDTs](http://archagon.net/blog/2018/03/24/data-laced-with-history)
 - [Serverless collaboration - (03/03/2019)](https://thegeez.net/2019/03/03/serverless_collab.html)
 - [Code together in real time with Teletype for Atom - (15/11/2017)](https://blog.atom.io/2017/11/15/code-together-in-real-time-with-teletype-for-atom.html)
+- [A CRDT Primer Part II: Convergent CRDTs](http://jtfmumm.com/blog/2015/11/24/crdt-primer-2-convergent-crdts/)
 
 ## Skepticism
 
