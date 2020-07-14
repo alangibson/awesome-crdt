@@ -161,6 +161,10 @@ A collection of awesome CRDT resources
 - [Datanet: an open source CRDT based data synchronization system](http://datanet.co/)
 - [Kuhirō: The Near Cloud](https://www.kuhiro.com)
 
+### Productivity
+
+- [ff — a distributed note taker and task manager](https://github.com/ff-notes/ff)
+
 ## Projects and Organizations
 
 ### SyncFree
