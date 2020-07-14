@@ -93,6 +93,7 @@ A collection of awesome CRDT resources
 
 ## Videos
 
+- [CRDTs: The Hard Parts - Martin Kleppman](https://youtu.be/x7drE24geUw)
 - [Strong Eventual Consistency and Conflict-free Replicated Data Types - Marc Shapiro (ThisByGustav)](https://www.youtube.com/watch?v=ebWVLVhiaiY&index=9&list=PLU3pXbz7Jcgn-tyj_hZ3kLlna_ojG5qD5)
 - [CRDTs in Practice - Marc Shapiro & Nuno Preguiça (Erlang Solutions)](https://www.youtube.com/watch?v=xxjHC3yLDqw)
 - [Automerge: Making servers optional for real-time collaboration - Martin Kleppmann (J On The Beach 2018)](https://www.youtube.com/watch?v=PHz17gwiOc8&index=3&list=PLBWIvCz5rfq0CFXhIWKhbznImXB1aBqbp)
