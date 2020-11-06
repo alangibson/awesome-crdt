@@ -38,9 +38,9 @@ A collection of awesome CRDT resources
 - [Convergent and Commutative Replicated Data Types - Marc Shapiro et. al. (2011)](https://hal.inria.fr/hal-00932833/document)
 - [Conflict-free Replicated Data Types - Marc Shapiro et. al. (2011)](https://hal.inria.fr/inria-00609399v1/document)
 - [Pure Operation-Based Replicated Data Types - Carlos Baquero et. al. (2017)](https://arxiv.org/pdf/1710.04469.pdf)
-- [Evaluating CRDTs for Real-time Document Editing - Mehdi Ahmed-Nacer et. al.](https://members.loria.fr/CIgnat/files/pdf/AhmedNacerDocEng11.pdf)
-- [Large-Scale Geo-Replicated Conflict-free Replicated Data Types - Carlos Bartolomeu](http://www.gsd.inesc-id.pt/~ler/reports/carlosbartolomeu-midterm.pdf)
-- [Consistency, Availability, and Convergence - Mahajan et. al.](http://www.cs.utexas.edu/users/dahlin/papers/cac-tr.pdf)
+- [Evaluating CRDTs for Real-time Document Editing - Mehdi Ahmed-Nacer et. al. (2011)](https://members.loria.fr/CIgnat/files/pdf/AhmedNacerDocEng11.pdf)
+- [Large-Scale Geo-Replicated Conflict-free Replicated Data Types - Carlos Bartolomeu (2015)](http://www.gsd.inesc-id.pt/~ler/reports/carlosbartolomeu-midterm.pdf)
+- [Consistency, Availability, and Convergence - Mahajan et. al. (2011)](http://www.cs.utexas.edu/users/dahlin/papers/cac-tr.pdf)
 
 #### Clocks
 
