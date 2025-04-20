@@ -91,6 +91,7 @@ A collection of awesome CRDT resources
 - [Serverless collaboration - (03/03/2019)](https://thegeez.net/2019/03/03/serverless_collab.html)
 - [Code together in real time with Teletype for Atom - (15/11/2017)](https://blog.atom.io/2017/11/15/code-together-in-real-time-with-teletype-for-atom.html)
 - [A CRDT Primer Part II: Convergent CRDTs](http://jtfmumm.com/blog/2015/11/24/crdt-primer-2-convergent-crdts/)
+- [CRDTs: Theory and Practice](https://blog.psychollama.io/crdts-theory-and-practice/)
 
 ## Skepticism
 
