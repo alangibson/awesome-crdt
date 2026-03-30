@@ -140,6 +140,7 @@ A collection of awesome CRDT resources
 - [Akka CRDT: An Eventually Consistent REST/JSON database using CRDTs, Akka Cluster and LevelDB](https://github.com/jboner/akka-crdt)
 - [Akka Distributed Data](https://doc.akka.io/docs/akka/snapshot/distributed-data.html?language=scala)
 - [wurmloch-crdt: Experimental implementations of conflict-free replicated data types (CRDTs) for the JVM](https://github.com/netopyr/wurmloch-crdt)
+- [crdt-merge](https://github.com/mgillr/crdt-merge) - Conflict-free merge for DataFrames, JSON, ML models & distributed agents — powered by CRDTs.
 
 #### Toy Implementations
 
