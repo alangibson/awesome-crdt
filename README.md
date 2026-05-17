@@ -127,6 +127,7 @@ A collection of awesome CRDT resources
 
 ### Data Structures
 
+- [`json-joy`: New modern high-performance JSON and rich-text CRDT, values speed and correctness](https://github.com/streamich/json-joy)
 - [KSeq: A continuous sequence CRDT based on Logoot/LSEQ](https://github.com/nkohari/kseq)
 - [LSEQ: CRDT for sequences](https://github.com/Chat-Wane/LSEQ)
 - [LSEQTree: A data structure for distributed arrays using the LSeq allocation strategy](https://github.com/Chat-Wane/LSEQTree)
@@ -148,6 +149,7 @@ A collection of awesome CRDT resources
 
 ### Editors
 
+- [mutxt.com: a polished local-first rich-text editor based on `json-joy` Peritext CRDT, available as a web app and desktop app (`npx mu-txt`), plus open-source React `mutxt-react` and Web Component `mutxt-element` libraries](https://mutxt.com)
 - [SandEdit: a project aiming to provide a distributed collaborative editor based on Conflict-free Replicated Data Type](https://github.com/Chat-Wane/SandEdit)
 - [Teletype for Atom: Share your workspace with team members and collaborate on code in real time in Atom](https://github.com/atom/teletype)
 - [Xi Editor: an attempt to build a high quality text editor, using modern software engineering techniques](https://github.com/google/xi-editor/blob/master/docs/docs/crdt.md)
