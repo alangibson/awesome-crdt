@@ -63,7 +63,7 @@ A collection of awesome CRDT resources
 - [Yjs: A Framework for Near Real-Time P2P Shared Editing on Arbitrary Data Types (2015)](http://dbis.rwth-aachen.de/~derntl/papers/preprints/icwe2015-preprint.pdf)
 - [Causal trees: towards real-time read-write hypertext - Victor Grishchenko](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.627.5286&rep=rep1&type=pdf)
 - [RGASplit: High Responsiveness for Group Editing CRDTs](https://pages.lip6.fr/Marc.Shapiro/papers/rgasplit-group2016-11.pdf)
-- [COPS: Don’t Settle for Eventual: Scalable Causal Consistency for Wide-Area Storage with COPS](http://www-users.cselabs.umn.edu/classes/Spring-2018/csci8980/Papers/CloudDataStorageManagement/COPS.pdf)
+- [COPS: Don't Settle for Eventual: Scalable Causal Consistency for Wide-Area Storage with COPS](http://www-users.cselabs.umn.edu/classes/Spring-2018/csci8980/Papers/CloudDataStorageManagement/COPS.pdf)
 
 #### Clocks
 
@@ -168,10 +168,7 @@ A collection of awesome CRDT resources
 - [Swarm: JavaScript replicated model (M of MVC) library](https://github.com/gritzko/swarm)
 - [Datanet: an open source CRDT based data synchronization system](http://datanet.co/)
 - [Kuhirō: The Near Cloud](https://www.kuhiro.com)
-
-### Productivity
-
-- [ff — a distributed note taker and task manager](https://github.com/ff-notes/ff)
+- [ZamSync: offline-first WAL sync engine in Rust using Hybrid Logical Clocks and Version Vectors for causal ordering and deduplication](https://github.com/Etoile-Bleu/ZamSync)
 
 ## Projects and Organizations
 
