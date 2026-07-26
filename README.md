@@ -140,6 +140,7 @@ A collection of awesome CRDT resources
 - [Akka CRDT: An Eventually Consistent REST/JSON database using CRDTs, Akka Cluster and LevelDB](https://github.com/jboner/akka-crdt)
 - [Akka Distributed Data](https://doc.akka.io/docs/akka/snapshot/distributed-data.html?language=scala)
 - [wurmloch-crdt: Experimental implementations of conflict-free replicated data types (CRDTs) for the JVM](https://github.com/netopyr/wurmloch-crdt)
+- [Ama.CRDT: A .NET 10 high-performance, Native AOT-ready library for building eventually consistent distributed systems using Conflict-free Replicated Data Types (CRDTs). Seamlessly sync, patch, and merge plain C# objects (POCOs) with zero reflection](https://github.com/phaetto/Ama.CRDT)
 
 #### Toy Implementations
 
