@@ -71,7 +71,7 @@ A collection of awesome CRDT resources
 
 #### Clocks
 
-- [Dotted Version Vectors: Efficient Causality Tracking for Distributed Key-Value Stores - Carlos Baquero et. al. (2012)](http://gsd.di.uminho.pt/members/vff/dotted-version-vectors-2012.pdf)
+- [Dotted Version Vectors: Efficient Causality Tracking for Distributed Key-Value Stores - Nuno Preguiça et. al. (2012)](http://gsd.di.uminho.pt/members/vff/dotted-version-vectors-2012.pdf)
 - [Virtual Time and Global States of Distributed Systems - Friedemann Mattern (1988)](https://www.vs.inf.ethz.ch/publ/papers/VirtTimeGlobStates.pdf)
 - [Timestamps in Message-Passing Systems That Preserve the Partial Ordering - Colin Fidge (1988)](http://fileadmin.cs.lth.se/cs/Personal/Amr_Ergawy/dist-algos-papers/4.pdf)
 - [Time, Clocks, and the Ordering of Events in a  Distributed System - Leslie Lamport (1978)](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)
