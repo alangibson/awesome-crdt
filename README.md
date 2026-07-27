@@ -127,7 +127,7 @@ A collection of awesome CRDT resources
 
 ### Data Structures
 
-- [`json-joy`: New modern high-performance JSON and rich-text CRDT, values speed and correctness](https://github.com/streamich/json-joy)
+- [`json-joy`: A high-performance JSON and rich-text CRDT focused on speed and correctness](https://github.com/streamich/json-joy)
 - [KSeq: A continuous sequence CRDT based on Logoot/LSEQ](https://github.com/nkohari/kseq)
 - [LSEQ: CRDT for sequences](https://github.com/Chat-Wane/LSEQ)
 - [LSEQTree: A data structure for distributed arrays using the LSeq allocation strategy](https://github.com/Chat-Wane/LSEQTree)
