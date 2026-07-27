@@ -168,6 +168,7 @@ A collection of awesome CRDT resources
 - [Swarm: JavaScript replicated model (M of MVC) library](https://github.com/gritzko/swarm)
 - [Datanet: an open source CRDT based data synchronization system](http://datanet.co/)
 - [Kuhirō: The Near Cloud](https://www.kuhiro.com)
+- [Yorkie: a document store for building collaborative editing applications](https://yorkie.dev/)
 
 ### Productivity
 
