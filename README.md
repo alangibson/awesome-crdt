@@ -38,10 +38,10 @@ A collection of awesome CRDT resources
 - [Convergent and Commutative Replicated Data Types - Marc Shapiro et. al. (2011)](https://hal.inria.fr/hal-00932833/document)
 - [Conflict-free Replicated Data Types - Marc Shapiro et. al. (2011)](https://hal.inria.fr/inria-00609399v1/document)
 - [Pure Operation-Based Replicated Data Types - Carlos Baquero et. al. (2017)](https://arxiv.org/pdf/1710.04469.pdf)
-- [Evaluating CRDTs for Real-time Document Editing - Mehdi Ahmed-Nacer et. al.](https://members.loria.fr/CIgnat/files/pdf/AhmedNacerDocEng11.pdf)
-- [Large-Scale Geo-Replicated Conflict-free Replicated Data Types - Carlos Bartolomeu](http://www.gsd.inesc-id.pt/~ler/reports/carlosbartolomeu-midterm.pdf)
-- [Pure Operation-Based Replicated Data Types - Carlos Baquero et. al. (2017)](https://arxiv.org/pdf/1710.04469.pdf)
-- [Consistency, Availability, and Convergence - Mahajan et. al.](http://www.cs.utexas.edu/users/dahlin/papers/cac-tr.pdf)
+- [Evaluating CRDTs for Real-time Document Editing - Mehdi Ahmed-Nacer et. al. (2011)](https://members.loria.fr/CIgnat/files/pdf/AhmedNacerDocEng11.pdf)
+- [Large-Scale Geo-Replicated Conflict-free Replicated Data Types - Carlos Bartolomeu (2015)](http://www.gsd.inesc-id.pt/~ler/reports/carlosbartolomeu-midterm.pdf)
+- [Consistency, Availability, and Convergence - Mahajan et. al. (2011)](http://www.cs.utexas.edu/users/dahlin/papers/cac-tr.pdf)
+- [The Only Undoable CRDTs are Counters - Dolan (2020)](https://arxiv.org/pdf/2006.10494.pdf)
 
 #### Clocks
 
@@ -64,6 +64,7 @@ A collection of awesome CRDT resources
 - [Causal trees: towards real-time read-write hypertext - Victor Grishchenko](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.627.5286&rep=rep1&type=pdf)
 - [RGASplit: High Responsiveness for Group Editing CRDTs](https://pages.lip6.fr/Marc.Shapiro/papers/rgasplit-group2016-11.pdf)
 - [COPS: Don’t Settle for Eventual: Scalable Causal Consistency for Wide-Area Storage with COPS](http://www-users.cselabs.umn.edu/classes/Spring-2018/csci8980/Papers/CloudDataStorageManagement/COPS.pdf)
+- [Collaborative Text Editing with Eg-walker: Better, Faster, Smaller](https://arxiv.org/abs/2409.14252)
 
 #### Clocks
 
@@ -91,6 +92,7 @@ A collection of awesome CRDT resources
 - [Serverless collaboration - (03/03/2019)](https://thegeez.net/2019/03/03/serverless_collab.html)
 - [Code together in real time with Teletype for Atom - (15/11/2017)](https://blog.atom.io/2017/11/15/code-together-in-real-time-with-teletype-for-atom.html)
 - [A CRDT Primer Part II: Convergent CRDTs](http://jtfmumm.com/blog/2015/11/24/crdt-primer-2-convergent-crdts/)
+- [CRDTs: Theory and Practice](https://blog.psychollama.io/crdts-theory-and-practice/)
 
 ## Skepticism
 
@@ -127,6 +129,7 @@ A collection of awesome CRDT resources
 
 ### Data Structures
 
+- [`json-joy`: A high-performance JSON and rich-text CRDT focused on speed and correctness](https://github.com/streamich/json-joy)
 - [KSeq: A continuous sequence CRDT based on Logoot/LSEQ](https://github.com/nkohari/kseq)
 - [LSEQ: CRDT for sequences](https://github.com/Chat-Wane/LSEQ)
 - [LSEQTree: A data structure for distributed arrays using the LSeq allocation strategy](https://github.com/Chat-Wane/LSEQTree)
@@ -140,6 +143,7 @@ A collection of awesome CRDT resources
 - [Akka CRDT: An Eventually Consistent REST/JSON database using CRDTs, Akka Cluster and LevelDB](https://github.com/jboner/akka-crdt)
 - [Akka Distributed Data](https://doc.akka.io/docs/akka/snapshot/distributed-data.html?language=scala)
 - [wurmloch-crdt: Experimental implementations of conflict-free replicated data types (CRDTs) for the JVM](https://github.com/netopyr/wurmloch-crdt)
+- [Loro: CRDT library inspired by Event Graph Walker (for Rust, JavaScript and Swift)](https://www.loro.dev/)
 
 #### Toy Implementations
 
@@ -148,6 +152,7 @@ A collection of awesome CRDT resources
 
 ### Editors
 
+- [mutxt.com: a polished local-first rich-text editor based on `json-joy` Peritext CRDT, available as a web app and desktop app (`npx mu-txt`), plus open-source React `mutxt-react` and Web Component `mutxt-element` libraries](https://mutxt.com)
 - [SandEdit: a project aiming to provide a distributed collaborative editor based on Conflict-free Replicated Data Type](https://github.com/Chat-Wane/SandEdit)
 - [Teletype for Atom: Share your workspace with team members and collaborate on code in real time in Atom](https://github.com/atom/teletype)
 - [Xi Editor: an attempt to build a high quality text editor, using modern software engineering techniques](https://github.com/google/xi-editor/blob/master/docs/docs/crdt.md)
@@ -169,6 +174,7 @@ A collection of awesome CRDT resources
 - [Datanet: an open source CRDT based data synchronization system](http://datanet.co/)
 - [Kuhirō: The Near Cloud](https://www.kuhiro.com)
 - [Artel: CRDT-based memory replication across self-hosted instances over JSON Feed, no central coordinator](https://github.com/NicolasPrimeau/artel)
+- [Yorkie: a document store for building collaborative editing applications](https://yorkie.dev/)
 
 ### Productivity
 
