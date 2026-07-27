@@ -74,7 +74,7 @@ A collection of awesome CRDT resources
 - [Time, Clocks, and the Ordering of Events in a  Distributed System - Leslie Lamport (1978)](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)
 - [Virtual Time and Global States of Distributed Systems - Friedemann Mattern (1988)](https://www.vs.inf.ethz.ch/publ/papers/VirtTimeGlobStates.pdf)
 - [Timestamps in Message-Passing Systems That Preserve the Partial Ordering - Colin Fidge (1988)](http://fileadmin.cs.lth.se/cs/Personal/Amr_Ergawy/dist-algos-papers/4.pdf)
-- [Dotted Version Vectors: Efficient Causality Tracking for Distributed Key-Value Stores - Carlos Baquero et. al.](http://gsd.di.uminho.pt/members/vff/dotted-version-vectors-2012.pdf)
+- [Dotted Version Vectors: Efficient Causality Tracking for Distributed Key-Value Stores - Carlos Baquero et. al. (2012)](http://gsd.di.uminho.pt/members/vff/dotted-version-vectors-2012.pdf)
 
 ### Applications
 
@@ -85,12 +85,12 @@ A collection of awesome CRDT resources
 - [SwiftCloud: Fault-Tolerant Geo-Replication Integrated all the Way to the Client Machine - Marek Zawirski et. al. (2013)](https://arxiv.org/pdf/1310.3107.pdf)
 - [LSEQ: an Adaptive Structure for Sequences in Distributed Collaborative Editing - Brice Nédelec et. al. (2013)](https://hal.archives-ouvertes.fr/hal-00921633/document)
 - [WOOTR: Abstract unordered and ordered trees CRDT - Stéphane Martin et. al. (2011)](https://arxiv.org/pdf/1201.1784.pdf)
-- [Logoot-Undo: Distributed Collaborative Editing System on P2P Networks - Stéphane Weiss et. al.](https://s3.amazonaws.com/academia.edu.documents/39769048/Logoot-Undo_Distributed_Collaborative_Ed20151107-5753-e8mgn.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1535395093&Signature=0osSBA0TEG5rjZ58sr9z7%2FrC%2Bxc%3D&response-content-disposition=inline%3B%20filename%3DLogoot-Undo_Distributed_Collaborative_Ed.pdf)
+- [Logoot-Undo: Distributed Collaborative Editing System on P2P Networks - Stéphane Weiss et. al. (2010)](https://s3.amazonaws.com/academia.edu.documents/39769048/Logoot-Undo_Distributed_Collaborative_Ed20151107-5753-e8mgn.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1535395093&Signature=0osSBA0TEG5rjZ58sr9z7%2FrC%2Bxc%3D&response-content-disposition=inline%3B%20filename%3DLogoot-Undo_Distributed_Collaborative_Ed.pdf)
 - [Yjs: A Framework for Near Real-Time P2P Shared Editing on Arbitrary Data Types (2015)](http://dbis.rwth-aachen.de/~derntl/papers/preprints/icwe2015-preprint.pdf)
-- [Causal trees: towards real-time read-write hypertext - Victor Grishchenko](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.627.5286&rep=rep1&type=pdf)
-- [RGASplit: High Responsiveness for Group Editing CRDTs](https://pages.lip6.fr/Marc.Shapiro/papers/rgasplit-group2016-11.pdf)
-- [COPS: Don’t Settle for Eventual: Scalable Causal Consistency for Wide-Area Storage with COPS](http://www-users.cselabs.umn.edu/classes/Spring-2018/csci8980/Papers/CloudDataStorageManagement/COPS.pdf)
-- [Collaborative Text Editing with Eg-walker: Better, Faster, Smaller](https://arxiv.org/abs/2409.14252)
+- [Causal trees: towards real-time read-write hypertext - Victor Grishchenko (2010)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.627.5286&rep=rep1&type=pdf)
+- [RGASplit: High Responsiveness for Group Editing CRDTs - Loïck Briot et. al. (2016)](https://pages.lip6.fr/Marc.Shapiro/papers/rgasplit-group2016-11.pdf)
+- [COPS: Don’t Settle for Eventual: Scalable Causal Consistency for Wide-Area Storage with COPS - Wyatt Lloyd et. al. (2011)](http://www-users.cselabs.umn.edu/classes/Spring-2018/csci8980/Papers/CloudDataStorageManagement/COPS.pdf)
+- [Collaborative Text Editing with Eg-walker: Better, Faster, Smaller - Joseph Gentle & Martin Kleppmann (2024)](https://arxiv.org/abs/2409.14252)
 
 #### Clocks
 
