@@ -104,21 +104,21 @@ A collection of awesome CRDT resources
 
 ## Blogs
 
-- [A Look at Conflict-Free Replicated Data Types](https://medium.com/@istanbul_techie/a-look-at-conflict-free-replicated-data-types-crdt-221a5f629e7e)
-- [Distributed data structures with Coq](http://christophermeiklejohn.com/coq/2013/06/11/distributed-data-structures.html)
-- [Towards a unified theory of Operational Transformation and CRDT](https://medium.com/@raphlinus/towards-a-unified-theory-of-operational-transformation-and-crdt-70485876f72f)
-- [Working code for Operational Transformation/CRDT hybrid](https://medium.com/@raphlinus/working-code-for-operational-transformation-crdt-hybrid-9d04a57309da)
-- [Convergent Replicated Data Types](http://simongui.github.io/distributed-systems/crdt.html)
-- [Logs and docs](https://medium.com/@gritzko/logs-and-docs-b6cb34efc7de)
-- [CRDTs explained - supercharge your serverless with CRDTs at the Edge (Russell Sullivan)](https://serverless.com/blog/crdt-explained-supercharge-serverless-at-edge/)
-- [Good Spirits: Syncing Data Statelessly](http://archagon.net/blog/2018/09/03/good-spirits-persisting-data-statelessly/)
-- [Delta State Replicated Data Types](https://blog.acolyer.org/2016/04/25/delta-state-replicated-data-types/)
-- [Datanet: a New CRDT Database that Let's You Do Bad Bad Things to Distributed Data](http://highscalability.com/blog/2016/10/17/datanet-a-new-crdt-database-that-lets-you-do-bad-bad-things.html)
-- [Data Laced with History: Causal Trees & Operational CRDTs](http://archagon.net/blog/2018/03/24/data-laced-with-history)
-- [Serverless collaboration - (03/03/2019)](https://thegeez.net/2019/03/03/serverless_collab.html)
-- [Code together in real time with Teletype for Atom - (15/11/2017)](https://blog.atom.io/2017/11/15/code-together-in-real-time-with-teletype-for-atom.html)
-- [A CRDT Primer Part II: Convergent CRDTs](http://jtfmumm.com/blog/2015/11/24/crdt-primer-2-convergent-crdts/)
-- [CRDTs: Theory and Practice](https://blog.psychollama.io/crdts-theory-and-practice/)
+- [CRDTs: Theory and Practice (2025)](https://blog.psychollama.io/crdts-theory-and-practice/)
+- [Serverless collaboration (2019)](https://thegeez.net/2019/03/03/serverless_collab.html)
+- [Good Spirits: Syncing Data Statelessly (2018)](http://archagon.net/blog/2018/09/03/good-spirits-persisting-data-statelessly/)
+- [Data Laced with History: Causal Trees & Operational CRDTs (2018)](http://archagon.net/blog/2018/03/24/data-laced-with-history)
+- [Code together in real time with Teletype for Atom (2017)](https://blog.atom.io/2017/11/15/code-together-in-real-time-with-teletype-for-atom.html)
+- [CRDTs explained - supercharge your serverless with CRDTs at the Edge (Russell Sullivan) (2017)](https://serverless.com/blog/crdt-explained-supercharge-serverless-at-edge/)
+- [Working code for Operational Transformation/CRDT hybrid (2017)](https://medium.com/@raphlinus/working-code-for-operational-transformation-crdt-hybrid-9d04a57309da)
+- [Datanet: a New CRDT Database that Let's You Do Bad Bad Things to Distributed Data (2016)](http://highscalability.com/blog/2016/10/17/datanet-a-new-crdt-database-that-lets-you-do-bad-bad-things.html)
+- [Towards a unified theory of Operational Transformation and CRDT (2016)](https://medium.com/@raphlinus/towards-a-unified-theory-of-operational-transformation-and-crdt-70485876f72f)
+- [Delta State Replicated Data Types (2016)](https://blog.acolyer.org/2016/04/25/delta-state-replicated-data-types/)
+- [A CRDT Primer Part II: Convergent CRDTs (2015)](http://jtfmumm.com/blog/2015/11/24/crdt-primer-2-convergent-crdts/)
+- [A Look at Conflict-Free Replicated Data Types (2015)](https://medium.com/@istanbul_techie/a-look-at-conflict-free-replicated-data-types-crdt-221a5f629e7e)
+- [Convergent Replicated Data Types (2015)](http://simongui.github.io/distributed-systems/crdt.html)
+- [Logs and docs (2013)](https://medium.com/@gritzko/logs-and-docs-b6cb34efc7de)
+- [Distributed data structures with Coq (2013)](http://christophermeiklejohn.com/coq/2013/06/11/distributed-data-structures.html)
 
 ## Skepticism
 
