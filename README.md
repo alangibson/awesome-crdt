@@ -64,6 +64,7 @@ A collection of awesome CRDT resources
 - [Causal trees: towards real-time read-write hypertext - Victor Grishchenko](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.627.5286&rep=rep1&type=pdf)
 - [RGASplit: High Responsiveness for Group Editing CRDTs](https://pages.lip6.fr/Marc.Shapiro/papers/rgasplit-group2016-11.pdf)
 - [COPS: Don’t Settle for Eventual: Scalable Causal Consistency for Wide-Area Storage with COPS](http://www-users.cselabs.umn.edu/classes/Spring-2018/csci8980/Papers/CloudDataStorageManagement/COPS.pdf)
+- [Collaborative Text Editing with Eg-walker: Better, Faster, Smaller](https://arxiv.org/abs/2409.14252)
 
 #### Clocks
 
@@ -140,6 +141,7 @@ A collection of awesome CRDT resources
 - [Akka CRDT: An Eventually Consistent REST/JSON database using CRDTs, Akka Cluster and LevelDB](https://github.com/jboner/akka-crdt)
 - [Akka Distributed Data](https://doc.akka.io/docs/akka/snapshot/distributed-data.html?language=scala)
 - [wurmloch-crdt: Experimental implementations of conflict-free replicated data types (CRDTs) for the JVM](https://github.com/netopyr/wurmloch-crdt)
+- [Loro: CRDT library inspired by Event Graph Walker (for Rust, JavaScript and Swift)](https://www.loro.dev/)
 
 #### Toy Implementations
 
