@@ -2,6 +2,32 @@
 
 A collection of awesome CRDT resources
 
+## Table of Contents
+
+- [Know Before You Go](#know-before-you-go)
+  - [Set Theory](#set-theory)
+  - [Order Theory](#order-theory)
+  - [Clocks](#clocks)
+- [Papers](#papers)
+  - [Foundations](#foundations)
+    - [Clocks](#clocks-1)
+  - [Applications](#applications)
+    - [Clocks](#clocks-2)
+  - [Proof and Verification](#proof-and-verification)
+- [Blogs](#blogs)
+- [Skepticism](#skepticism)
+- [Videos](#videos)
+  - [Playlists](#playlists)
+- [Implementations](#implementations)
+  - [Data Structures](#data-structures)
+    - [Toy Implementations](#toy-implementations)
+  - [Editors](#editors)
+  - [Databases and Logs](#databases-and-logs)
+  - [Productivity](#productivity)
+- [Projects and Organizations](#projects-and-organizations)
+  - [SyncFree](#syncfree)
+- [More Lists](#more-lists)
+
 ## Know Before You Go
 
 ### Set Theory
