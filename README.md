@@ -90,7 +90,6 @@ A collection of awesome CRDT resources
 - [Logoot: A Scalable Optimistic Replication Algorithm for Collaborative Editing on P2P Networks - Weiss et. al. (2009)](https://hal.archives-ouvertes.fr/inria-00432368/document)
 - [TreeDoc: A commutative replicated data type for cooperative editing (2009)](https://hal.inria.fr/inria-00445975/document)
 - [WOOT: Real time group editors without Operational transformation - Gérald Oster et. al. (2005)](https://hal.inria.fr/inria-00071240/document)
-- [Causal trees: towards real-time read-write hypertext - Victor Grishchenko](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.627.5286&rep=rep1&type=pdf)
 
 #### Clocks
 
