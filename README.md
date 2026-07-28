@@ -155,6 +155,8 @@ A collection of awesome CRDT resources
 
 ## Implementations
 
+- [CRDT Code: the exhaustive, continuously updated list of libraries](https://crdt.tech/implementations)
+
 ### Data Structures
 
 - [`json-joy`: A high-performance JSON and rich-text CRDT focused on speed and correctness](https://github.com/streamich/json-joy)
