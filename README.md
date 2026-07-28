@@ -84,7 +84,7 @@ A collection of awesome CRDT resources
 - [LSEQ: an Adaptive Structure for Sequences in Distributed Collaborative Editing - Brice Nédelec et. al. (2013)](https://hal.archives-ouvertes.fr/hal-00921633/document)
 - [RGA, RHT, RFA: Replicated abstract data types: Building blocks for collaborative applications - Hyun-Gul Roh (2011)](https://web.archive.org/web/20251027152445/http://csl.skku.edu/papers/jpdc11.pdf)
 - [WOOTR: Abstract unordered and ordered trees CRDT - Stéphane Martin et. al. (2011)](https://arxiv.org/pdf/1201.1784.pdf)
-- [COPS: Don’t Settle for Eventual: Scalable Causal Consistency for Wide-Area Storage with COPS - Wyatt Lloyd et. al. (2011)](http://www-users.cselabs.umn.edu/classes/Spring-2018/csci8980/Papers/CloudDataStorageManagement/COPS.pdf)
+- [COPS: Don't Settle for Eventual: Scalable Causal Consistency for Wide-Area Storage with COPS - Wyatt Lloyd et. al. (2011)](http://www-users.cselabs.umn.edu/classes/Spring-2018/csci8980/Papers/CloudDataStorageManagement/COPS.pdf)
 - [Logoot-Undo: Distributed Collaborative Editing System on P2P Networks - Stéphane Weiss et. al. (2010)](https://hal.science/hal-00450416v1)
 - [Logoot: A Scalable Optimistic Replication Algorithm for Collaborative Editing on P2P Networks - Stéphane Weiss et. al. (2009)](https://hal.archives-ouvertes.fr/inria-00432368/document)
 - [TreeDoc: A commutative replicated data type for cooperative editing - Nuno Preguiça et. al. (2009)](https://hal.inria.fr/inria-00445975/document)
@@ -199,6 +199,7 @@ A collection of awesome CRDT resources
 - [Kuhirō: The Near Cloud](https://www.kuhiro.com)
 - [Artel: CRDT-based memory replication across self-hosted instances over JSON Feed, no central coordinator](https://github.com/NicolasPrimeau/artel)
 - [Yorkie: a document store for building collaborative editing applications](https://yorkie.dev/)
+- [ZamSync: offline-first WAL sync engine in Rust using Hybrid Logical Clocks and Version Vectors for causal ordering and deduplication](https://github.com/Etoile-Bleu/ZamSync)
 
 ### Productivity
 
