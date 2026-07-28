@@ -79,7 +79,7 @@ A collection of awesome CRDT resources
 
 - [Collaborative Text Editing with Eg-walker: Better, Faster, Smaller - Joseph Gentle & Martin Kleppmann (2024)](https://arxiv.org/abs/2409.14252)
 - [RGASplit: High Responsiveness for Group Editing CRDTs - Loïck Briot et. al. (2016)](https://web.archive.org/web/20250313011036/https://pages.lip6.fr/Marc.Shapiro/papers/rgasplit-group2016-11.pdf)
-- [Yjs: A Framework for Near Real-Time P2P Shared Editing on Arbitrary Data Types (2015)](https://web.archive.org/web/20210710193121/http://dbis.rwth-aachen.de/~derntl/papers/preprints/icwe2015-preprint.pdf)
+- [Yjs: A Framework for Near Real-Time P2P Shared Editing on Arbitrary Data Types - Petru Nicolaescu et. al. (2015)](https://web.archive.org/web/20210710193121/http://dbis.rwth-aachen.de/~derntl/papers/preprints/icwe2015-preprint.pdf)
 - [SwiftCloud: Fault-Tolerant Geo-Replication Integrated all the Way to the Client Machine - Marek Zawirski et. al. (2013)](https://arxiv.org/pdf/1310.3107.pdf)
 - [LSEQ: an Adaptive Structure for Sequences in Distributed Collaborative Editing - Brice Nédelec et. al. (2013)](https://hal.archives-ouvertes.fr/hal-00921633/document)
 - [RGA, RHT, RFA: Replicated abstract data types: Building blocks for collaborative applications - Hyun-Gul Roh (2011)](https://web.archive.org/web/20251027152445/http://csl.skku.edu/papers/jpdc11.pdf)
@@ -87,7 +87,7 @@ A collection of awesome CRDT resources
 - [COPS: Don’t Settle for Eventual: Scalable Causal Consistency for Wide-Area Storage with COPS - Wyatt Lloyd et. al. (2011)](http://www-users.cselabs.umn.edu/classes/Spring-2018/csci8980/Papers/CloudDataStorageManagement/COPS.pdf)
 - [Logoot-Undo: Distributed Collaborative Editing System on P2P Networks - Stéphane Weiss et. al. (2010)](https://hal.science/hal-00450416v1)
 - [Logoot: A Scalable Optimistic Replication Algorithm for Collaborative Editing on P2P Networks - Weiss et. al. (2009)](https://hal.archives-ouvertes.fr/inria-00432368/document)
-- [TreeDoc: A commutative replicated data type for cooperative editing (2009)](https://hal.inria.fr/inria-00445975/document)
+- [TreeDoc: A commutative replicated data type for cooperative editing - Nuno Preguiça et. al. (2009)](https://hal.inria.fr/inria-00445975/document)
 - [WOOT: Real time group editors without Operational transformation - Gérald Oster et. al. (2005)](https://hal.inria.fr/inria-00071240/document)
 
 #### Clocks
