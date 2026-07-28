@@ -2,6 +2,32 @@
 
 A collection of awesome CRDT resources
 
+## Table of Contents
+
+- [Know Before You Go](#know-before-you-go)
+  - [Set Theory](#set-theory)
+  - [Order Theory](#order-theory)
+  - [Clocks](#clocks)
+- [Academic Papers](#academic-papers)
+  - [Foundations](#foundations)
+    - [Clocks](#clocks-1)
+  - [Applications](#applications)
+    - [Clocks](#clocks-2)
+  - [Proof and Verification](#proof-and-verification)
+- [Blogs](#blogs)
+- [Skepticism](#skepticism)
+- [Videos](#videos)
+  - [Playlists](#playlists)
+- [Implementations](#implementations)
+  - [Data Structures](#data-structures)
+    - [Toy Implementations](#toy-implementations)
+  - [Text Editors](#text-editors)
+  - [Databases and Logs](#databases-and-logs)
+  - [Productivity](#productivity)
+- [Projects and Organizations](#projects-and-organizations)
+  - [SyncFree](#syncfree)
+- [More Lists](#more-lists)
+
 ## Know Before You Go
 
 ### Set Theory
@@ -26,45 +52,45 @@ A collection of awesome CRDT resources
 - [Version Vector (Wikipedia)](https://en.m.wikipedia.org/wiki/Version_vector)
 - [Why Logical Clocks are Easy](https://queue.acm.org/detail.cfm?id=2917756)
 
-## Papers 
+## Academic Papers
 
 ### Foundations
 
-- [Achieving Convergence, Causality-Preservation, and Intention-Preservation in Real-Time Cooperative Editing Systems - Sun et. al. (1998)](http://diyhpl.us/%7Ebryan/papers2/distributed/distributed-systems/real-time-cooperative-editing-systems.1998.pdf)
-- [Designing a commutative replicated data type - Marc Shapiro et. al. (2007)](https://arxiv.org/pdf/0710.1784)
-- [CRDTs: Consistency without concurrency control - Mihai Letia et. al. (2009)](https://arxiv.org/pdf/0907.0929)
-- [A commutative replicated data type for cooperative editing - Nuno Preguiça (2009)](https://hal.inria.fr/inria-00445975/document)
+- [The Only Undoable CRDTs are Counters - Dolan (2020)](https://arxiv.org/pdf/2006.10494.pdf)
+- [Pure Operation-Based Replicated Data Types - Carlos Baquero et. al. (2017)](https://arxiv.org/pdf/1710.04469.pdf)
+- [Large-Scale Geo-Replicated Conflict-free Replicated Data Types - Carlos Bartolomeu (2015)](http://www.gsd.inesc-id.pt/~ler/reports/carlosbartolomeu-midterm.pdf)
 - [A comprehensive study of Convergent and Commutative Replicated Data Types - Marc Shapiro et. al. (2011)](https://hal.inria.fr/inria-00555588/document)
 - [Convergent and Commutative Replicated Data Types - Marc Shapiro et. al. (2011)](https://hal.inria.fr/hal-00932833/document)
 - [Conflict-free Replicated Data Types - Marc Shapiro et. al. (2011)](https://hal.inria.fr/inria-00609399v1/document)
-- [Pure Operation-Based Replicated Data Types - Carlos Baquero et. al. (2017)](https://arxiv.org/pdf/1710.04469.pdf)
 - [Evaluating CRDTs for Real-time Document Editing - Mehdi Ahmed-Nacer et. al. (2011)](https://members.loria.fr/CIgnat/files/pdf/AhmedNacerDocEng11.pdf)
-- [Large-Scale Geo-Replicated Conflict-free Replicated Data Types - Carlos Bartolomeu (2015)](http://www.gsd.inesc-id.pt/~ler/reports/carlosbartolomeu-midterm.pdf)
 - [Consistency, Availability, and Convergence - Mahajan et. al. (2011)](http://www.cs.utexas.edu/users/dahlin/papers/cac-tr.pdf)
-- [The Only Undoable CRDTs are Counters - Dolan (2020)](https://arxiv.org/pdf/2006.10494.pdf)
+- [CRDTs: Consistency without concurrency control - Mihai Letia et. al. (2009)](https://arxiv.org/pdf/0907.0929)
+- [A commutative replicated data type for cooperative editing - Nuno Preguiça (2009)](https://hal.inria.fr/inria-00445975/document)
+- [Designing a commutative replicated data type - Marc Shapiro et. al. (2007)](https://arxiv.org/pdf/0710.1784)
+- [Achieving Convergence, Causality-Preservation, and Intention-Preservation in Real-Time Cooperative Editing Systems - Sun et. al. (1998)](http://diyhpl.us/%7Ebryan/papers2/distributed/distributed-systems/real-time-cooperative-editing-systems.1998.pdf)
 
 #### Clocks
 
-- [Time, Clocks, and the Ordering of Events in a  Distributed System - Leslie Lamport (1978)](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)
+- [Dotted Version Vectors: Efficient Causality Tracking for Distributed Key-Value Stores - Nuno Preguiça et. al. (2012)](http://gsd.di.uminho.pt/members/vff/dotted-version-vectors-2012.pdf)
 - [Virtual Time and Global States of Distributed Systems - Friedemann Mattern (1988)](https://www.vs.inf.ethz.ch/publ/papers/VirtTimeGlobStates.pdf)
 - [Timestamps in Message-Passing Systems That Preserve the Partial Ordering - Colin Fidge (1988)](http://fileadmin.cs.lth.se/cs/Personal/Amr_Ergawy/dist-algos-papers/4.pdf)
-- [Dotted Version Vectors: Efficient Causality Tracking for Distributed Key-Value Stores - Carlos Baquero et. al.](http://gsd.di.uminho.pt/members/vff/dotted-version-vectors-2012.pdf)
+- [Time, Clocks, and the Ordering of Events in a  Distributed System - Leslie Lamport (1978)](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)
 
 ### Applications
 
-- [WOOT: Real time group editors without Operational transformation - Gérald Oster et. al. (2005)](https://hal.inria.fr/inria-00071240/document)
-- [RGA, RHT, RFA: Replicated abstract data types: Building blocks for collaborative applications - Hyun-Gul Roh (2011)](http://csl.skku.edu/papers/jpdc11.pdf)
-- [Logoot: A Scalable Optimistic Replication Algorithm for Collaborative Editing on P2P Networks - Weiss et. al. (2009)](https://hal.archives-ouvertes.fr/inria-00432368/document)
-- [TreeDoc: A commutative replicated data type for cooperative editing (2009)](https://hal.inria.fr/inria-00445975/document)
+- [Collaborative Text Editing with Eg-walker: Better, Faster, Smaller - Joseph Gentle & Martin Kleppmann (2024)](https://arxiv.org/abs/2409.14252)
+- [RGASplit: High Responsiveness for Group Editing CRDTs - Loïck Briot et. al. (2016)](https://pages.lip6.fr/Marc.Shapiro/papers/rgasplit-group2016-11.pdf)
+- [Yjs: A Framework for Near Real-Time P2P Shared Editing on Arbitrary Data Types (2015)](http://dbis.rwth-aachen.de/~derntl/papers/preprints/icwe2015-preprint.pdf)
 - [SwiftCloud: Fault-Tolerant Geo-Replication Integrated all the Way to the Client Machine - Marek Zawirski et. al. (2013)](https://arxiv.org/pdf/1310.3107.pdf)
 - [LSEQ: an Adaptive Structure for Sequences in Distributed Collaborative Editing - Brice Nédelec et. al. (2013)](https://hal.archives-ouvertes.fr/hal-00921633/document)
+- [RGA, RHT, RFA: Replicated abstract data types: Building blocks for collaborative applications - Hyun-Gul Roh (2011)](http://csl.skku.edu/papers/jpdc11.pdf)
 - [WOOTR: Abstract unordered and ordered trees CRDT - Stéphane Martin et. al. (2011)](https://arxiv.org/pdf/1201.1784.pdf)
-- [Logoot-Undo: Distributed Collaborative Editing System on P2P Networks - Stéphane Weiss et. al.](https://s3.amazonaws.com/academia.edu.documents/39769048/Logoot-Undo_Distributed_Collaborative_Ed20151107-5753-e8mgn.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1535395093&Signature=0osSBA0TEG5rjZ58sr9z7%2FrC%2Bxc%3D&response-content-disposition=inline%3B%20filename%3DLogoot-Undo_Distributed_Collaborative_Ed.pdf)
-- [Yjs: A Framework for Near Real-Time P2P Shared Editing on Arbitrary Data Types (2015)](http://dbis.rwth-aachen.de/~derntl/papers/preprints/icwe2015-preprint.pdf)
+- [COPS: Don’t Settle for Eventual: Scalable Causal Consistency for Wide-Area Storage with COPS - Wyatt Lloyd et. al. (2011)](http://www-users.cselabs.umn.edu/classes/Spring-2018/csci8980/Papers/CloudDataStorageManagement/COPS.pdf)
+- [Logoot-Undo: Distributed Collaborative Editing System on P2P Networks - Stéphane Weiss et. al. (2010)](https://s3.amazonaws.com/academia.edu.documents/39769048/Logoot-Undo_Distributed_Collaborative_Ed20151107-5753-e8mgn.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1535395093&Signature=0osSBA0TEG5rjZ58sr9z7%2FrC%2Bxc%3D&response-content-disposition=inline%3B%20filename%3DLogoot-Undo_Distributed_Collaborative_Ed.pdf)
+- [Logoot: A Scalable Optimistic Replication Algorithm for Collaborative Editing on P2P Networks - Weiss et. al. (2009)](https://hal.archives-ouvertes.fr/inria-00432368/document)
+- [TreeDoc: A commutative replicated data type for cooperative editing (2009)](https://hal.inria.fr/inria-00445975/document)
+- [WOOT: Real time group editors without Operational transformation - Gérald Oster et. al. (2005)](https://hal.inria.fr/inria-00071240/document)
 - [Causal trees: towards real-time read-write hypertext - Victor Grishchenko](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.627.5286&rep=rep1&type=pdf)
-- [RGASplit: High Responsiveness for Group Editing CRDTs](https://pages.lip6.fr/Marc.Shapiro/papers/rgasplit-group2016-11.pdf)
-- [COPS: Don’t Settle for Eventual: Scalable Causal Consistency for Wide-Area Storage with COPS](http://www-users.cselabs.umn.edu/classes/Spring-2018/csci8980/Papers/CloudDataStorageManagement/COPS.pdf)
-- [Collaborative Text Editing with Eg-walker: Better, Faster, Smaller](https://arxiv.org/abs/2409.14252)
 
 #### Clocks
 
@@ -78,21 +104,21 @@ A collection of awesome CRDT resources
 
 ## Blogs
 
-- [A Look at Conflict-Free Replicated Data Types](https://medium.com/@istanbul_techie/a-look-at-conflict-free-replicated-data-types-crdt-221a5f629e7e)
-- [Distributed data structures with Coq](http://christophermeiklejohn.com/coq/2013/06/11/distributed-data-structures.html)
-- [Towards a unified theory of Operational Transformation and CRDT](https://medium.com/@raphlinus/towards-a-unified-theory-of-operational-transformation-and-crdt-70485876f72f)
-- [Working code for Operational Transformation/CRDT hybrid](https://medium.com/@raphlinus/working-code-for-operational-transformation-crdt-hybrid-9d04a57309da)
-- [Convergent Replicated Data Types](http://simongui.github.io/distributed-systems/crdt.html)
-- [Logs and docs](https://medium.com/@gritzko/logs-and-docs-b6cb34efc7de)
-- [CRDTs explained - supercharge your serverless with CRDTs at the Edge (Russell Sullivan)](https://serverless.com/blog/crdt-explained-supercharge-serverless-at-edge/)
-- [Good Spirits: Syncing Data Statelessly](http://archagon.net/blog/2018/09/03/good-spirits-persisting-data-statelessly/)
-- [Delta State Replicated Data Types](https://blog.acolyer.org/2016/04/25/delta-state-replicated-data-types/)
-- [Datanet: a New CRDT Database that Let's You Do Bad Bad Things to Distributed Data](http://highscalability.com/blog/2016/10/17/datanet-a-new-crdt-database-that-lets-you-do-bad-bad-things.html)
-- [Data Laced with History: Causal Trees & Operational CRDTs](http://archagon.net/blog/2018/03/24/data-laced-with-history)
-- [Serverless collaboration - (03/03/2019)](https://thegeez.net/2019/03/03/serverless_collab.html)
-- [Code together in real time with Teletype for Atom - (15/11/2017)](https://blog.atom.io/2017/11/15/code-together-in-real-time-with-teletype-for-atom.html)
-- [A CRDT Primer Part II: Convergent CRDTs](http://jtfmumm.com/blog/2015/11/24/crdt-primer-2-convergent-crdts/)
-- [CRDTs: Theory and Practice](https://blog.psychollama.io/crdts-theory-and-practice/)
+- [CRDTs: Theory and Practice (2025)](https://blog.psychollama.io/crdts-theory-and-practice/)
+- [Serverless collaboration (2019)](https://thegeez.net/2019/03/03/serverless_collab.html)
+- [Good Spirits: Syncing Data Statelessly (2018)](http://archagon.net/blog/2018/09/03/good-spirits-persisting-data-statelessly/)
+- [Data Laced with History: Causal Trees & Operational CRDTs (2018)](http://archagon.net/blog/2018/03/24/data-laced-with-history)
+- [Code together in real time with Teletype for Atom (2017)](https://blog.atom.io/2017/11/15/code-together-in-real-time-with-teletype-for-atom.html)
+- [CRDTs explained - supercharge your serverless with CRDTs at the Edge (Russell Sullivan) (2017)](https://serverless.com/blog/crdt-explained-supercharge-serverless-at-edge/)
+- [Working code for Operational Transformation/CRDT hybrid (2017)](https://medium.com/@raphlinus/working-code-for-operational-transformation-crdt-hybrid-9d04a57309da)
+- [Datanet: a New CRDT Database that Let's You Do Bad Bad Things to Distributed Data (2016)](http://highscalability.com/blog/2016/10/17/datanet-a-new-crdt-database-that-lets-you-do-bad-bad-things.html)
+- [Towards a unified theory of Operational Transformation and CRDT (2016)](https://medium.com/@raphlinus/towards-a-unified-theory-of-operational-transformation-and-crdt-70485876f72f)
+- [Delta State Replicated Data Types (2016)](https://blog.acolyer.org/2016/04/25/delta-state-replicated-data-types/)
+- [A CRDT Primer Part II: Convergent CRDTs (2015)](http://jtfmumm.com/blog/2015/11/24/crdt-primer-2-convergent-crdts/)
+- [A Look at CRDTs (2015)](https://medium.com/@istanbul_techie/a-look-at-conflict-free-replicated-data-types-crdt-221a5f629e7e)
+- [Convergent Replicated Data Types (2015)](http://simongui.github.io/distributed-systems/crdt.html)
+- [Logs and docs (2013)](https://medium.com/@gritzko/logs-and-docs-b6cb34efc7de)
+- [Distributed data structures with Coq (2013)](http://christophermeiklejohn.com/coq/2013/06/11/distributed-data-structures.html)
 
 ## Skepticism
 
@@ -102,7 +128,7 @@ A collection of awesome CRDT resources
 ## Videos
 
 - [CRDTs: The Hard Parts - Martin Kleppman](https://youtu.be/x7drE24geUw)
-- [Strong Eventual Consistency and Conflict-free Replicated Data Types - Marc Shapiro (ThisByGustav)](https://www.youtube.com/watch?v=ebWVLVhiaiY&index=9&list=PLU3pXbz7Jcgn-tyj_hZ3kLlna_ojG5qD5)
+- [Strong Eventual Consistency and CRDTs - Marc Shapiro (ThisByGustav)](https://www.youtube.com/watch?v=ebWVLVhiaiY&index=9&list=PLU3pXbz7Jcgn-tyj_hZ3kLlna_ojG5qD5)
 - [CRDTs in Practice - Marc Shapiro & Nuno Preguiça (Erlang Solutions)](https://www.youtube.com/watch?v=xxjHC3yLDqw)
 - [Automerge: Making servers optional for real-time collaboration - Martin Kleppmann (J On The Beach 2018)](https://www.youtube.com/watch?v=PHz17gwiOc8&index=3&list=PLBWIvCz5rfq0CFXhIWKhbznImXB1aBqbp)
 - ["Transactions: myths, surprises and opportunities" by Martin Kleppmann (Strange Loop)](https://www.youtube.com/watch?v=5ZjhNTM8XU8&index=2&list=PLBWIvCz5rfq0CFXhIWKhbznImXB1aBqbp)
@@ -142,8 +168,8 @@ A collection of awesome CRDT resources
 - [Distributed Data Structures in Coq](https://github.com/cmeiklejohn/distributed-data-structures)
 - [Akka CRDT: An Eventually Consistent REST/JSON database using CRDTs, Akka Cluster and LevelDB](https://github.com/jboner/akka-crdt)
 - [Akka Distributed Data](https://doc.akka.io/docs/akka/snapshot/distributed-data.html?language=scala)
-- [wurmloch-crdt: Experimental implementations of conflict-free replicated data types (CRDTs) for the JVM](https://github.com/netopyr/wurmloch-crdt)
-- [Ama.CRDT: A C# .NET 10 high-performance, Native AOT-ready library using Conflict-free Replicated Data Types (CRDTs)](https://github.com/phaetto/Ama.CRDT)
+- [wurmloch-crdt: Experimental implementations of CRDTs for the JVM](https://github.com/netopyr/wurmloch-crdt)
+- [Ama.CRDT: A C# .NET 10 high-performance, Native AOT-ready library using CRDTs](https://github.com/phaetto/Ama.CRDT)
 - [Velt: collaboration SDK providing Yjs-based CRDT stores (array, map, text, XML) with hosted sync, presence and offline editing](https://velt.dev)
 - [Loro: CRDT library inspired by Event Graph Walker (for Rust, JavaScript and Swift)](https://www.loro.dev/)
 
@@ -152,10 +178,10 @@ A collection of awesome CRDT resources
 - [Companion to the article "Data Laced with History: Causal Trees & Operational CRDTs"](https://github.com/archagon/crdt-playground)
 - [Meangirls: Convergent Replicated Data Types](https://github.com/aphyr/meangirls)
 
-### Editors
+### Text Editors
 
 - [mutxt.com: a polished local-first rich-text editor based on `json-joy` Peritext CRDT, available as a web app and desktop app (`npx mu-txt`), plus open-source React `mutxt-react` and Web Component `mutxt-element` libraries](https://mutxt.com)
-- [SandEdit: a project aiming to provide a distributed collaborative editor based on Conflict-free Replicated Data Type](https://github.com/Chat-Wane/SandEdit)
+- [SandEdit: a project aiming to provide a distributed collaborative editor based on CRDTs](https://github.com/Chat-Wane/SandEdit)
 - [Teletype for Atom: Share your workspace with team members and collaborate on code in real time in Atom](https://github.com/atom/teletype)
 - [Xi Editor: an attempt to build a high quality text editor, using modern software engineering techniques](https://github.com/google/xi-editor/blob/master/docs/docs/crdt.md)
 - [IPFS CRDT Shared Editing: Decentralized Real-Time Collaborative Documents - Conflict-free editing in the browser using js-IPFS and CRDTs](https://github.com/vigzmv/IPFS-CRDT-shared-editing)
@@ -167,9 +193,8 @@ A collection of awesome CRDT resources
 
 ### Databases and Logs
 
-- [Concordant](https://www.concordant.io/)
-- [AntidoteDB](https://syncfree.github.io/antidote/)
-- [Riak KV](http://docs.basho.com/riak/kv/2.2.3/developing/data-types/)
+- [AntidoteDB: planet scale, highly available, transactional database](https://syncfree.github.io/antidote/)
+- [Riak KV: distributed NoSQL database designed to deliver maximum data availability by distributing data across multiple servers](http://docs.basho.com/riak/kv/2.2.3/developing/data-types/)
 - [Hypermerge: combines Automerge, a CRDT, with hypercore, a distributed append-only log](https://github.com/automerge/hypermerge)
 - [Roshi: a large-scale CRDT set implementation for timestamped events](https://github.com/soundcloud/roshi)
 - [Swarm: JavaScript replicated model (M of MVC) library](https://github.com/gritzko/swarm)
@@ -191,7 +216,7 @@ A collection of awesome CRDT resources
 
 ## More Lists
 
-- [Readings in conflict-free replicated data types](http://christophermeiklejohn.com/crdt/2014/07/22/readings-in-crdts.html)
+- [Readings in CRDTs](http://christophermeiklejohn.com/crdt/2014/07/22/readings-in-crdts.html)
 - [Carlos Baquero bibliography](https://dblp.uni-trier.de/pers/hd/b/Baquero:Carlos)
 - [BOOM: Berkley Orders of Magnitude](http://boom.cs.berkeley.edu/papers.html)
 - [CRDT.tech](https://crdt.tech/)
