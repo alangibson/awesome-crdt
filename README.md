@@ -143,10 +143,9 @@ A collection of awesome CRDT resources
 
 ### Playlists
 
-- [CRDT Talks Playlist (IPFS)](https://www.youtube.com/watch?v=em9zLzM8O7c&list=PLuhRWgmPaHtSvjFsjaVm_Fj9nXuwW35Ai)
-- [Coding CRDT's (Jeroen Zuijderhoudt)](https://www.youtube.com/watch?v=em9zLzM8O7c&list=PLzUeAPxtWcqxBXjUelmcm5ORVjEpbUlHH)
-- [CRDT (Adib Saikali)](https://www.youtube.com/watch?v=oyUHd894w18&list=PL-qXCjp3nQxUjhbdaC7E02a6bzrmG7U89)
-- [crdt (Sonny To)](https://www.youtube.com/watch?v=rVRegyQvHqs&list=PLfV2ToGTS-JpUYyGFVK5AE5bzGtw4inwE)
+- [CRDT (Adib Saikali) (2015-2023)](https://www.youtube.com/playlist?list=PL-qXCjp3nQxUjhbdaC7E02a6bzrmG7U89)
+- [crdt (Sonny To) (2015-2020)](https://www.youtube.com/playlist?list=PLfV2ToGTS-JpUYyGFVK5AE5bzGtw4inwE)
+- [CRDT Talks (IPFS) (2014-2016)](https://www.youtube.com/playlist?list=PLuhRWgmPaHtSvjFsjaVm_Fj9nXuwW35Ai)
 
 ## Implementations
 
