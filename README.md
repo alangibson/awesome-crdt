@@ -217,4 +217,4 @@ A collection of awesome CRDT resources
 - [Readings in CRDTs](http://christophermeiklejohn.com/crdt/2014/07/22/readings-in-crdts.html)
 - [Carlos Baquero bibliography](https://dblp.uni-trier.de/pers/hd/b/Baquero:Carlos)
 - [BOOM: Berkley Orders of Magnitude](http://boom.cs.berkeley.edu/papers.html)
-- [CRDT.tech](https://crdt.tech/)
+- [CRDT Resources: talks, blog posts and courses, collected by crdt.tech](https://crdt.tech/resources)
