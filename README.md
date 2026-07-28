@@ -58,6 +58,8 @@ A collection of awesome CRDT resources
 
 ## Academic Papers
 
+- [CRDT Papers: the exhaustive, continuously updated bibliography](https://crdt.tech/papers.html)
+
 ### Foundations
 
 - [The Only Undoable CRDTs are Counters - Stephen Dolan (2020)](https://arxiv.org/pdf/2006.10494.pdf)
