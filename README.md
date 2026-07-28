@@ -121,8 +121,8 @@ A collection of awesome CRDT resources
 
 ## Skepticism
 
-- [Real Differences between OT and CRDT for Co-Editors](https://arxiv.org/pdf/1810.02137.pdf)
-- [Why CRDT didn't work out as well for collaborative editing xi-editor](https://github.com/xi-editor/xi-editor/issues/1187#issuecomment-491473599)
+- [Why CRDT didn't work out as well for collaborative editing xi-editor (2019)](https://github.com/xi-editor/xi-editor/issues/1187#issuecomment-491473599)
+- [Real Differences between OT and CRDT for Co-Editors (2018)](https://arxiv.org/pdf/1810.02137.pdf)
 
 ## Videos
 
