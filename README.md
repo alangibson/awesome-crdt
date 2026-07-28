@@ -193,7 +193,6 @@ A collection of awesome CRDT resources
 
 ### Databases and Logs
 
-- [Concordant](https://www.concordant.io/)
 - [AntidoteDB: planet scale, highly available, transactional database](https://syncfree.github.io/antidote/)
 - [Riak KV: distributed NoSQL database designed to deliver maximum data availability by distributing data across multiple servers](http://docs.basho.com/riak/kv/2.2.3/developing/data-types/)
 - [Hypermerge: combines Automerge, a CRDT, with hypercore, a distributed append-only log](https://github.com/automerge/hypermerge)
