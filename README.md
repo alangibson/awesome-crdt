@@ -8,7 +8,7 @@ A collection of awesome CRDT resources
   - [Set Theory](#set-theory)
   - [Order Theory](#order-theory)
   - [Clocks](#clocks)
-- [Papers](#papers)
+- [Academic Papers](#academic-papers)
   - [Foundations](#foundations)
     - [Clocks](#clocks-1)
   - [Applications](#applications)
@@ -52,7 +52,7 @@ A collection of awesome CRDT resources
 - [Version Vector (Wikipedia)](https://en.m.wikipedia.org/wiki/Version_vector)
 - [Why Logical Clocks are Easy](https://queue.acm.org/detail.cfm?id=2917756)
 
-## Papers 
+## Academic Papers
 
 ### Foundations
 
