@@ -21,7 +21,7 @@ A collection of awesome CRDT resources
 - [Implementations](#implementations)
   - [Data Structures](#data-structures)
     - [Toy Implementations](#toy-implementations)
-  - [Editors](#editors)
+  - [Text Editors](#text-editors)
   - [Databases and Logs](#databases-and-logs)
   - [Productivity](#productivity)
 - [Projects and Organizations](#projects-and-organizations)
@@ -178,7 +178,7 @@ A collection of awesome CRDT resources
 - [Companion to the article "Data Laced with History: Causal Trees & Operational CRDTs"](https://github.com/archagon/crdt-playground)
 - [Meangirls: Convergent Replicated Data Types](https://github.com/aphyr/meangirls)
 
-### Editors
+### Text Editors
 
 - [mutxt.com: a polished local-first rich-text editor based on `json-joy` Peritext CRDT, available as a web app and desktop app (`npx mu-txt`), plus open-source React `mutxt-react` and Web Component `mutxt-element` libraries](https://mutxt.com)
 - [SandEdit: a project aiming to provide a distributed collaborative editor based on Conflict-free Replicated Data Type](https://github.com/Chat-Wane/SandEdit)
