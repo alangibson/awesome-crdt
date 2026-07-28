@@ -56,17 +56,17 @@ A collection of awesome CRDT resources
 
 ### Foundations
 
-- [The Only Undoable CRDTs are Counters - Dolan (2020)](https://arxiv.org/pdf/2006.10494.pdf)
+- [The Only Undoable CRDTs are Counters - Stephen Dolan (2020)](https://arxiv.org/pdf/2006.10494.pdf)
 - [Pure Operation-Based Replicated Data Types - Carlos Baquero et. al. (2017)](https://arxiv.org/pdf/1710.04469.pdf)
 - [Large-Scale Geo-Replicated Conflict-free Replicated Data Types - Carlos Bartolomeu (2015)](http://www.gsd.inesc-id.pt/~ler/reports/carlosbartolomeu-midterm.pdf)
 - [A comprehensive study of Convergent and Commutative Replicated Data Types - Marc Shapiro et. al. (2011)](https://hal.inria.fr/inria-00555588/document)
 - [Convergent and Commutative Replicated Data Types - Marc Shapiro et. al. (2011)](https://hal.inria.fr/hal-00932833/document)
 - [Conflict-free Replicated Data Types - Marc Shapiro et. al. (2011)](https://hal.inria.fr/inria-00609399v1/document)
 - [Evaluating CRDTs for Real-time Document Editing - Mehdi Ahmed-Nacer et. al. (2011)](https://members.loria.fr/CIgnat/files/pdf/AhmedNacerDocEng11.pdf)
-- [Consistency, Availability, and Convergence - Mahajan et. al. (2011)](http://www.cs.utexas.edu/users/dahlin/papers/cac-tr.pdf)
+- [Consistency, Availability, and Convergence - Prince Mahajan et. al. (2011)](http://www.cs.utexas.edu/users/dahlin/papers/cac-tr.pdf)
 - [CRDTs: Consistency without concurrency control - Mihai Letia et. al. (2009)](https://arxiv.org/pdf/0907.0929)
 - [Designing a commutative replicated data type - Marc Shapiro et. al. (2007)](https://arxiv.org/pdf/0710.1784)
-- [Achieving Convergence, Causality-Preservation, and Intention-Preservation in Real-Time Cooperative Editing Systems - Sun et. al. (1998)](http://diyhpl.us/%7Ebryan/papers2/distributed/distributed-systems/real-time-cooperative-editing-systems.1998.pdf)
+- [Achieving Convergence, Causality-Preservation, and Intention-Preservation in Real-Time Cooperative Editing Systems - Chengzheng Sun et. al. (1998)](http://diyhpl.us/%7Ebryan/papers2/distributed/distributed-systems/real-time-cooperative-editing-systems.1998.pdf)
 
 #### Clocks
 
@@ -86,7 +86,7 @@ A collection of awesome CRDT resources
 - [WOOTR: Abstract unordered and ordered trees CRDT - Stéphane Martin et. al. (2011)](https://arxiv.org/pdf/1201.1784.pdf)
 - [COPS: Don’t Settle for Eventual: Scalable Causal Consistency for Wide-Area Storage with COPS - Wyatt Lloyd et. al. (2011)](http://www-users.cselabs.umn.edu/classes/Spring-2018/csci8980/Papers/CloudDataStorageManagement/COPS.pdf)
 - [Logoot-Undo: Distributed Collaborative Editing System on P2P Networks - Stéphane Weiss et. al. (2010)](https://hal.science/hal-00450416v1)
-- [Logoot: A Scalable Optimistic Replication Algorithm for Collaborative Editing on P2P Networks - Weiss et. al. (2009)](https://hal.archives-ouvertes.fr/inria-00432368/document)
+- [Logoot: A Scalable Optimistic Replication Algorithm for Collaborative Editing on P2P Networks - Stéphane Weiss et. al. (2009)](https://hal.archives-ouvertes.fr/inria-00432368/document)
 - [TreeDoc: A commutative replicated data type for cooperative editing - Nuno Preguiça et. al. (2009)](https://hal.inria.fr/inria-00445975/document)
 - [WOOT: Real time group editors without Operational transformation - Gérald Oster et. al. (2005)](https://hal.inria.fr/inria-00071240/document)
 
@@ -97,7 +97,7 @@ A collection of awesome CRDT resources
 ### Proof and Verification
 
 - [A framework for verifying Conflict-free Replicated Data Types (CRDTs) - Dominic Mulligan (2017)](http://srepls6.cs.ucl.ac.uk/images/mulligan.pdf)
-- [Verifying Strong Eventual Consistency in Distributed Systems - VICTOR B. F. GOMES (2017)](https://arxiv.org/pdf/1707.01747.pdf)
+- [Verifying Strong Eventual Consistency in Distributed Systems - Victor B. F. Gomes (2017)](https://arxiv.org/pdf/1707.01747.pdf)
 - [On Verifying Causal Consistency - Bouajjani et. al. (2017)](https://web.archive.org/web/20250426103640/https://pages.lip6.fr/Marc.Shapiro/workshop-2017-05-03/attachments/enea-slides.pdf)
 
 ## Blogs
