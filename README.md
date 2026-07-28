@@ -24,8 +24,6 @@ A collection of awesome CRDT resources
   - [Text Editors](#text-editors)
   - [Databases and Logs](#databases-and-logs)
   - [Productivity](#productivity)
-- [Projects and Organizations](#projects-and-organizations)
-  - [SyncFree](#syncfree)
 - [More Lists](#more-lists)
 
 ## Know Before You Go
@@ -203,13 +201,6 @@ A collection of awesome CRDT resources
 ### Productivity
 
 - [ff — a distributed note taker and task manager](https://github.com/ff-notes/ff)
-
-## Projects and Organizations
-
-### SyncFree
-
-- [SyncFree](https://github.com/SyncFree)
-- [Automerge](https://github.com/automerge)
 
 ## More Lists
 
