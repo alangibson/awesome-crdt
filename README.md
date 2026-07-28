@@ -210,7 +210,7 @@ A collection of awesome CRDT resources
 
 ### Productivity
 
-- [ff — a distributed note taker and task manager](https://github.com/ff-notes/ff)
+- [ff: a distributed note taker and task manager](https://github.com/ff-notes/ff)
 
 ## More Lists
 
