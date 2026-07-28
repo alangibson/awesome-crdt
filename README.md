@@ -41,7 +41,7 @@ A collection of awesome CRDT resources
 - [Total Order (Wikipedia)](https://en.wikipedia.org/wiki/Total_order)
 - [Causal Ordering](http://scattered-thoughts.net/blog/2012/08/16/causal-ordering/)
 - [Semilattice (Wikipedia)](https://en.wikipedia.org/wiki/Semilattice)
-- [A CRDT Primer Part I: Defanging Order Theory](http://jtfmumm.com/blog/2015/11/17/crdt-primer-1-defanging-order-theory/)
+- [A CRDT Primer Part I: Defanging Order Theory (2015)](http://jtfmumm.com/blog/2015/11/17/crdt-primer-1-defanging-order-theory/)
 
 ### Clocks
 
@@ -50,7 +50,7 @@ A collection of awesome CRDT resources
 - [Assigning Lamport & Vector Timestamps](https://web.archive.org/web/20170601112634/http://krzyzanowski.org/rutgers/notes/clocks/index.html)
 - [Vector Clock (Wikipedia)](https://en.wikipedia.org/wiki/Vector_clock)
 - [Version Vector (Wikipedia)](https://en.m.wikipedia.org/wiki/Version_vector)
-- [Why Logical Clocks are Easy](https://queue.acm.org/detail.cfm?id=2917756)
+- [Why Logical Clocks are Easy (2016)](https://queue.acm.org/detail.cfm?id=2917756)
 
 ## Academic Papers
 
