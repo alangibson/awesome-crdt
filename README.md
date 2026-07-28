@@ -5,6 +5,7 @@ A collection of awesome CRDT resources
 ## Table of Contents
 
 - [Know Before You Go](#know-before-you-go)
+  - [Introduction](#introduction)
   - [Set Theory](#set-theory)
   - [Order Theory](#order-theory)
   - [Clocks](#clocks)
@@ -27,6 +28,11 @@ A collection of awesome CRDT resources
 - [More Lists](#more-lists)
 
 ## Know Before You Go
+
+### Introduction
+
+- [CRDT.tech: what a CRDT is, and why you would want one](https://crdt.tech/)
+- [CRDT Glossary: the vocabulary the rest of this list assumes](https://crdt.tech/glossary)
 
 ### Set Theory
 
