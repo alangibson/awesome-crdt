@@ -115,7 +115,7 @@ A collection of awesome CRDT resources
 - [Towards a unified theory of Operational Transformation and CRDT (2016)](https://medium.com/@raphlinus/towards-a-unified-theory-of-operational-transformation-and-crdt-70485876f72f)
 - [Delta State Replicated Data Types (2016)](https://blog.acolyer.org/2016/04/25/delta-state-replicated-data-types/)
 - [A CRDT Primer Part II: Convergent CRDTs (2015)](http://jtfmumm.com/blog/2015/11/24/crdt-primer-2-convergent-crdts/)
-- [A Look at Conflict-Free Replicated Data Types (2015)](https://medium.com/@istanbul_techie/a-look-at-conflict-free-replicated-data-types-crdt-221a5f629e7e)
+- [A Look at CRDTs (2015)](https://medium.com/@istanbul_techie/a-look-at-conflict-free-replicated-data-types-crdt-221a5f629e7e)
 - [Convergent Replicated Data Types (2015)](http://simongui.github.io/distributed-systems/crdt.html)
 - [Logs and docs (2013)](https://medium.com/@gritzko/logs-and-docs-b6cb34efc7de)
 - [Distributed data structures with Coq (2013)](http://christophermeiklejohn.com/coq/2013/06/11/distributed-data-structures.html)
@@ -128,7 +128,7 @@ A collection of awesome CRDT resources
 ## Videos
 
 - [CRDTs: The Hard Parts - Martin Kleppman](https://youtu.be/x7drE24geUw)
-- [Strong Eventual Consistency and Conflict-free Replicated Data Types - Marc Shapiro (ThisByGustav)](https://www.youtube.com/watch?v=ebWVLVhiaiY&index=9&list=PLU3pXbz7Jcgn-tyj_hZ3kLlna_ojG5qD5)
+- [Strong Eventual Consistency and CRDTs - Marc Shapiro (ThisByGustav)](https://www.youtube.com/watch?v=ebWVLVhiaiY&index=9&list=PLU3pXbz7Jcgn-tyj_hZ3kLlna_ojG5qD5)
 - [CRDTs in Practice - Marc Shapiro & Nuno Preguiça (Erlang Solutions)](https://www.youtube.com/watch?v=xxjHC3yLDqw)
 - [Automerge: Making servers optional for real-time collaboration - Martin Kleppmann (J On The Beach 2018)](https://www.youtube.com/watch?v=PHz17gwiOc8&index=3&list=PLBWIvCz5rfq0CFXhIWKhbznImXB1aBqbp)
 - ["Transactions: myths, surprises and opportunities" by Martin Kleppmann (Strange Loop)](https://www.youtube.com/watch?v=5ZjhNTM8XU8&index=2&list=PLBWIvCz5rfq0CFXhIWKhbznImXB1aBqbp)
@@ -168,8 +168,8 @@ A collection of awesome CRDT resources
 - [Distributed Data Structures in Coq](https://github.com/cmeiklejohn/distributed-data-structures)
 - [Akka CRDT: An Eventually Consistent REST/JSON database using CRDTs, Akka Cluster and LevelDB](https://github.com/jboner/akka-crdt)
 - [Akka Distributed Data](https://doc.akka.io/docs/akka/snapshot/distributed-data.html?language=scala)
-- [wurmloch-crdt: Experimental implementations of conflict-free replicated data types (CRDTs) for the JVM](https://github.com/netopyr/wurmloch-crdt)
-- [Ama.CRDT: A C# .NET 10 high-performance, Native AOT-ready library using Conflict-free Replicated Data Types (CRDTs)](https://github.com/phaetto/Ama.CRDT)
+- [wurmloch-crdt: Experimental implementations of CRDTs for the JVM](https://github.com/netopyr/wurmloch-crdt)
+- [Ama.CRDT: A C# .NET 10 high-performance, Native AOT-ready library using CRDTs](https://github.com/phaetto/Ama.CRDT)
 - [Velt: collaboration SDK providing Yjs-based CRDT stores (array, map, text, XML) with hosted sync, presence and offline editing](https://velt.dev)
 - [Loro: CRDT library inspired by Event Graph Walker (for Rust, JavaScript and Swift)](https://www.loro.dev/)
 
@@ -181,7 +181,7 @@ A collection of awesome CRDT resources
 ### Text Editors
 
 - [mutxt.com: a polished local-first rich-text editor based on `json-joy` Peritext CRDT, available as a web app and desktop app (`npx mu-txt`), plus open-source React `mutxt-react` and Web Component `mutxt-element` libraries](https://mutxt.com)
-- [SandEdit: a project aiming to provide a distributed collaborative editor based on Conflict-free Replicated Data Type](https://github.com/Chat-Wane/SandEdit)
+- [SandEdit: a project aiming to provide a distributed collaborative editor based on CRDTs](https://github.com/Chat-Wane/SandEdit)
 - [Teletype for Atom: Share your workspace with team members and collaborate on code in real time in Atom](https://github.com/atom/teletype)
 - [Xi Editor: an attempt to build a high quality text editor, using modern software engineering techniques](https://github.com/google/xi-editor/blob/master/docs/docs/crdt.md)
 - [IPFS CRDT Shared Editing: Decentralized Real-Time Collaborative Documents - Conflict-free editing in the browser using js-IPFS and CRDTs](https://github.com/vigzmv/IPFS-CRDT-shared-editing)
@@ -217,7 +217,7 @@ A collection of awesome CRDT resources
 
 ## More Lists
 
-- [Readings in conflict-free replicated data types](http://christophermeiklejohn.com/crdt/2014/07/22/readings-in-crdts.html)
+- [Readings in CRDTs](http://christophermeiklejohn.com/crdt/2014/07/22/readings-in-crdts.html)
 - [Carlos Baquero bibliography](https://dblp.uni-trier.de/pers/hd/b/Baquero:Carlos)
 - [BOOM: Berkley Orders of Magnitude](http://boom.cs.berkeley.edu/papers.html)
 - [CRDT.tech](https://crdt.tech/)
