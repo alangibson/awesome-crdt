@@ -197,7 +197,7 @@ A collection of awesome CRDT resources
 
 ### Databases and Logs
 
-- [AntidoteDB: planet scale, highly available, transactional database](https://syncfree.github.io/antidote/)
+- [AntidoteDB: planet scale, highly available, transactional database](https://www.antidotedb.eu/)
 - [Riak KV: distributed NoSQL database designed to deliver maximum data availability by distributing data across multiple servers](http://docs.basho.com/riak/kv/2.2.3/developing/data-types/)
 - [Hypermerge: combines Automerge, a CRDT, with hypercore, a distributed append-only log](https://github.com/automerge/hypermerge)
 - [Roshi: a large-scale CRDT set implementation for timestamped events](https://github.com/soundcloud/roshi)
