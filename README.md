@@ -65,7 +65,6 @@ A collection of awesome CRDT resources
 - [Evaluating CRDTs for Real-time Document Editing - Mehdi Ahmed-Nacer et. al. (2011)](https://members.loria.fr/CIgnat/files/pdf/AhmedNacerDocEng11.pdf)
 - [Consistency, Availability, and Convergence - Mahajan et. al. (2011)](http://www.cs.utexas.edu/users/dahlin/papers/cac-tr.pdf)
 - [CRDTs: Consistency without concurrency control - Mihai Letia et. al. (2009)](https://arxiv.org/pdf/0907.0929)
-- [A commutative replicated data type for cooperative editing - Nuno Preguiça (2009)](https://hal.inria.fr/inria-00445975/document)
 - [Designing a commutative replicated data type - Marc Shapiro et. al. (2007)](https://arxiv.org/pdf/0710.1784)
 - [Achieving Convergence, Causality-Preservation, and Intention-Preservation in Real-Time Cooperative Editing Systems - Sun et. al. (1998)](http://diyhpl.us/%7Ebryan/papers2/distributed/distributed-systems/real-time-cooperative-editing-systems.1998.pdf)
 
