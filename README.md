@@ -141,7 +141,6 @@ A collection of awesome CRDT resources
 - [Using Erlang, Riak and the ORSWOT CRDT at bet365 (...) - Michael Owen - Erlang User Conference 2015 (Erlang Solutions) (2015)](https://www.youtube.com/watch?v=WXmO1IvzIZY&index=7&list=PLU3pXbz7Jcgn-tyj_hZ3kLlna_ojG5qD5)
 - [Strong Eventual Consistency and CRDTs - Marc Shapiro (ThisByGustav) (2013)](https://www.youtube.com/watch?v=ebWVLVhiaiY&index=9&list=PLU3pXbz7Jcgn-tyj_hZ3kLlna_ojG5qD5)
 - [WOOT: an algorithm for concurrency and collaborative authoring! (Julien Genestoux) (2013)](https://www.youtube.com/watch?v=NSTZ4mIv_wk)
-- [Datanet Website Slideshow](https://www.youtube.com/watch?v=jANg6Za4T1w)
 
 ### Playlists
 
