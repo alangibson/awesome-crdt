@@ -47,7 +47,7 @@ A collection of awesome CRDT resources
 
 - [Logical Clock (Wikipedia)](https://en.wikipedia.org/wiki/Logical_clock)
 - [Lamport Timestamps (Wikipedia)](https://en.wikipedia.org/wiki/Lamport_timestamps)
-- [Assigning Lamport & Vector Timestamps](https://www.cs.rutgers.edu/~pxk/417/notes/clocks/index.html)
+- [Assigning Lamport & Vector Timestamps](https://web.archive.org/web/20170601112634/http://krzyzanowski.org/rutgers/notes/clocks/index.html)
 - [Vector Clock (Wikipedia)](https://en.wikipedia.org/wiki/Vector_clock)
 - [Version Vector (Wikipedia)](https://en.m.wikipedia.org/wiki/Version_vector)
 - [Why Logical Clocks are Easy](https://queue.acm.org/detail.cfm?id=2917756)
