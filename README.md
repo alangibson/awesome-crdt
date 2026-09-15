@@ -22,6 +22,7 @@ A collection of awesome CRDT resources
 - [Implementations](#implementations)
   - [Data Structures](#data-structures)
     - [Toy Implementations](#toy-implementations)
+  - [Tooling](#tooling)
   - [Text Editors](#text-editors)
   - [Databases and Logs](#databases-and-logs)
   - [Productivity](#productivity)
@@ -181,6 +182,11 @@ A collection of awesome CRDT resources
 
 - [Companion to the article "Data Laced with History: Causal Trees & Operational CRDTs"](https://github.com/archagon/crdt-playground)
 - [Meangirls: Convergent Replicated Data Types](https://github.com/aphyr/meangirls)
+
+### Tooling
+
+- [automerge-lens: explains why an Automerge merge conflict resolved the way it did (every candidate value and its author), plus fuzzes application order to verify the convergence guarantee actually holds](https://github.com/jayblast-spec/automerge-lens)
+- [yjs-lens: verifies the convergence guarantee actually holds for a set of Yjs updates by fuzzing application order, plus summarizes causal update history](https://github.com/jayblast-spec/yjs-lens)
 
 ### Text Editors
 
