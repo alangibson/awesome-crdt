@@ -211,6 +211,7 @@ A collection of awesome CRDT resources
 ### Productivity
 
 - [ff: a distributed note taker and task manager](https://github.com/ff-notes/ff)
+- [Koru: a local-first desktop workspace for notes, documents and files (Rust, Windows and macOS) that stores each workspace as a Loro CRDT snapshot and syncs devices peer-to-peer](https://github.com/koruworks/mono)
 
 ## More Lists
 
