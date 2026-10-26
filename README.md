@@ -194,6 +194,7 @@ A collection of awesome CRDT resources
 - [woot-collaborative-editor: A real time collaboration toy project based on WOOT. Implemented with node.js and ws](https://github.com/ryankaplan/woot-collaborative-editor)
 - [cljs-collab: Browser-to-browser collaborative editor](https://thegeez.net/2019/03/03/serverless_collab.html)
 - [Xray: An experimental next-generation Electron-based text editor](https://github.com/atom/xray)
+- [Oleafly: a desktop editor for LaTeX, Typst and Markdown papers whose real-time collaboration and self-hosted server are built on the Loro CRDT](https://github.com/Oleafly/Oleafly)
 
 ### Databases and Logs
 
