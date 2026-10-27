@@ -194,6 +194,7 @@ A collection of awesome CRDT resources
 - [woot-collaborative-editor: A real time collaboration toy project based on WOOT. Implemented with node.js and ws](https://github.com/ryankaplan/woot-collaborative-editor)
 - [cljs-collab: Browser-to-browser collaborative editor](https://thegeez.net/2019/03/03/serverless_collab.html)
 - [Xray: An experimental next-generation Electron-based text editor](https://github.com/atom/xray)
+- [Blok: a block-based rich text editor for the web, like the one in Notion. Each document is a Yjs doc, so live collaboration and undo both run on the CRDT](https://github.com/JackUait/blok)
 
 ### Databases and Logs
 
