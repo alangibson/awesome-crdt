@@ -194,6 +194,7 @@ A collection of awesome CRDT resources
 - [woot-collaborative-editor: A real time collaboration toy project based on WOOT. Implemented with node.js and ws](https://github.com/ryankaplan/woot-collaborative-editor)
 - [cljs-collab: Browser-to-browser collaborative editor](https://thegeez.net/2019/03/03/serverless_collab.html)
 - [Xray: An experimental next-generation Electron-based text editor](https://github.com/atom/xray)
+- [Galley: a local-first Typst document workspace that uses Yjs for real-time collaborative editing, with an AI agent whose edits wait for a human Accept](https://github.com/vitofico/galley)
 
 ### Databases and Logs
 
