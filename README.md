@@ -211,6 +211,7 @@ A collection of awesome CRDT resources
 ### Productivity
 
 - [ff: a distributed note taker and task manager](https://github.com/ff-notes/ff)
+- [Skykeep: iCloud Notes on Linux and Windows, merging edits through Apple Notes' own topotext CRDT](https://github.com/YashwanthKamireddi/Skykeep)
 
 ## More Lists
 
