@@ -207,10 +207,12 @@ A collection of awesome CRDT resources
 - [Artel: CRDT-based memory replication across self-hosted instances over JSON Feed, no central coordinator](https://github.com/NicolasPrimeau/artel)
 - [Yorkie: a document store for building collaborative editing applications](https://yorkie.dev/)
 - [ZamSync: offline-first WAL sync engine in Rust using Hybrid Logical Clocks and Version Vectors for causal ordering and deduplication](https://github.com/Etoile-Bleu/ZamSync)
+- [OpenLFCP: open protocol with TypeScript and Rust SDKs for local-first sharing of a piece of a document between apps, built on Automerge; changes are end-to-end encrypted and signed on the device, and the relay server stores only ciphertext](https://openlfcp.org)
 
 ### Productivity
 
 - [ff: a distributed note taker and task manager](https://github.com/ff-notes/ff)
+- [Shared Tasks: Obsidian plugin that shares one section of a note between vaults over OpenLFCP; ticks and edits merge both ways, including after offline edits](https://github.com/openlfcp/obsidian)
 
 ## More Lists
 
